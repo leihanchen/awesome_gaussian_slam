@@ -1,6 +1,6 @@
-# Awesome Implicit SLAM Resources 
+# Awesome Gaussian SLAM Resources 
 
-A curated list of papers and open-source resources focused on implicit slam system,specifically, focusing on nerf slam and 3d gaussian splatting slam with any utilities. The amibition is keeping pace with the anticipated surge of research in the coming months. If you have any additions or suggestions, feel free to contribute. Additional resources like blog posts, videos, etc. are also welcome.
+A curated list of papers and open-source resources focused on gaussian based slam system, focusing on slam systems with gaussian based mapping representation with any utilities. The ambition is keeping pace with the anticipated surge of research in the coming months. If you have any additions or suggestions, feel free to contribute. Additional resources like blog posts, videos, etc. are also welcome.
 
 ## Table of contents
 
@@ -9,7 +9,7 @@ A curated list of papers and open-source resources focused on implicit slam syst
   * [3D Gaussian Splatting](#3d-gaussian-splatting)
 <br>
 
-- [Nerf SLAM](#nerf-slam)
+- [Theory](#gaussian-theory)
 - [Gaussian SLAM](#gaussian-slam)
 - [Navigation](#navigation)
 - [Poses](#poses)
@@ -58,7 +58,17 @@ A curated list of papers and open-source resources focused on implicit slam syst
 
 <br>
 
-## Nerf SLAM:
+
+
+## Theory:
+- **[SIGGRAPH '24]2D Gaussian Splatting for Geometrically Accurate Radiance Fields**, Huang et al. SIGGRAPH 2024 | [📄 Paper](https://arxiv.org/pdf/2402.03246.pdf) | [🌐 Project Page](https://surfsplatting.github.io/) | [💻 Code](https://github.com/hbb1/2d-gaussian-splatting)
+
+- **PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**, Huang et al. arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.06521.pdf) | [🌐 Project Page](https://zju3dv.github.io/pgsr/) | [💻 Code](https://github.com/zju3dv/PGSR)
+
+- **[CVPR '24]4D Gaussian Splatting for
+Real-Time Dynamic Scene Rendering**,
+Wu et al. CVPR 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528.pdf) | [🌐 Project Page](https://guanjunwu.github.io/4dgs/) | [💻 Code](https://github.com/hustvl/4DGaussians)
+
 
 ## Gaussian SLAM:
 ## 2024:
