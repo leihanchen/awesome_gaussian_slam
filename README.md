@@ -9,6 +9,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
   * [3D Gaussian Splatting](#3d-gaussian-splatting)
 <br>
 
+- [Survey](#survey)
 - [Theory](#gaussian-theory)
 - [Gaussian SLAM](#gaussian-slam)
 - [Navigation](#navigation)
@@ -42,6 +43,9 @@ A curated list of papers and open-source resources focused on gaussian based sla
 <br>
  **July 11, 2024**
  - Initial version
+<br>
+ **July 16, 2024**
+ - Add survey and theory sections
 </details>
 
 <br>
@@ -58,7 +62,14 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 <br>
 
+## Survey:
+- **A Survey on 3D Gaussian Splatting**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2401.03890.pdf)
 
+- **3D Gaussian as a New Vision Era: A Survey**, Fei et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2402.07181.pdf)
+
+- **Recent Advances in 3D Gaussian Splatting**, Wu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.11134.pdf)
+
+- **Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review**, Dalal et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2405.03417.pdf)
 
 ## Gaussian Theory:
 - **[SIGGRAPH '24]2D Gaussian Splatting for Geometrically Accurate Radiance Fields**, Huang et al., SIGGRAPH 2024 | [📄 Paper](https://arxiv.org/pdf/2402.03246.pdf) | [🌐 Project Page](https://surfsplatting.github.io/) | [💻 Code](https://github.com/hbb1/2d-gaussian-splatting)
@@ -262,3 +273,4 @@ Wu et al., CVPR 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528.pdf) | [�
 6. [Computerphile 3DGS explanation](https://youtu.be/VkIJbpdTujE?si=1GLjzBfF9LCuT22o)
 
 ## Credits
+Most credits should be contributed to [Awesome 3D Gaussian Splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting?tab=readme-ov-file#slam), [3D Gaussian Splatting Papers](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers)
