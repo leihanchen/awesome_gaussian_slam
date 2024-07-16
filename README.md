@@ -60,19 +60,19 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 
 
-## Theory:
-- **[SIGGRAPH '24]2D Gaussian Splatting for Geometrically Accurate Radiance Fields**, Huang et al. SIGGRAPH 2024 | [📄 Paper](https://arxiv.org/pdf/2402.03246.pdf) | [🌐 Project Page](https://surfsplatting.github.io/) | [💻 Code](https://github.com/hbb1/2d-gaussian-splatting)
+## Gaussian Theory:
+- **[SIGGRAPH '24]2D Gaussian Splatting for Geometrically Accurate Radiance Fields**, Huang et al., SIGGRAPH 2024 | [📄 Paper](https://arxiv.org/pdf/2402.03246.pdf) | [🌐 Project Page](https://surfsplatting.github.io/) | [💻 Code](https://github.com/hbb1/2d-gaussian-splatting)
 
-- **PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**, Huang et al. arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.06521.pdf) | [🌐 Project Page](https://zju3dv.github.io/pgsr/) | [💻 Code](https://github.com/zju3dv/PGSR)
+- **PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.06521.pdf) | [🌐 Project Page](https://zju3dv.github.io/pgsr/) | [💻 Code](https://github.com/zju3dv/PGSR)
 
 - **[CVPR '24]4D Gaussian Splatting for
 Real-Time Dynamic Scene Rendering**,
-Wu et al. CVPR 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528.pdf) | [🌐 Project Page](https://guanjunwu.github.io/4dgs/) | [💻 Code](https://github.com/hustvl/4DGaussians)
+Wu et al., CVPR 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528.pdf) | [🌐 Project Page](https://guanjunwu.github.io/4dgs/) | [💻 Code](https://github.com/hustvl/4DGaussians)
 
 
 ## Gaussian SLAM:
 ## 2024:
-- **SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**, Li et al. arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2402.03246.pdf) | [🎥 Demo Video](https://www.youtube.com/watch?v=y83yw1E-oUo)
+- **SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**, Li et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2402.03246.pdf) | [🎥 Demo Video](https://www.youtube.com/watch?v=y83yw1E-oUo)
 
 - **SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM**, Zhu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.07494.pdf)
 
