@@ -77,12 +77,12 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.06521.pdf) | [🌐 Project Page](https://zju3dv.github.io/pgsr/) | [💻 Code](https://github.com/zju3dv/PGSR)
 
-- **[CVPR '24]4D Gaussian Splatting for
-Real-Time Dynamic Scene Rendering**,
+- **[CVPR '24]4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**,
 Wu et al., CVPR 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528.pdf) | [🌐 Project Page](https://guanjunwu.github.io/4dgs/) | [💻 Code](https://github.com/hustvl/4DGaussians)
 
 - **Trim 3D Gaussian Splatting for Accurate Geometry Representation**, Fan et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2406.07499.pdf) | [🌐 Project Page](https://trimgs.github.io/) | [💻 Code](https://github.com/YuxueYang1204/TrimGS)
 
+- **[CVPR '24 Best Student Paper]Mip-Splatting Alias-free 3D Gaussian Splatting**, Yu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2311.16493.pdf) | [🌐 Project Page](https://niujinshuchong.github.io/mip-splatting/) | [💻 Code](https://github.com/autonomousvision/mip-splatting)
 
 ## Gaussian SLAM:
 ## 2024:
