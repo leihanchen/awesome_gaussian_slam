@@ -64,6 +64,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 <br>
 
 ## Survey:
+- **3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2407.17418.pdf)[🌐 Project Page](https://github.com/qqqqqqy0227/awesome-3DGS)
+
 - **A Survey on 3D Gaussian Splatting**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2401.03890.pdf)
 
 - **3D Gaussian as a New Vision Era: A Survey**, Fei et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2402.07181.pdf)
@@ -86,6 +88,8 @@ Wu et al., CVPR 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528.pdf) | [�
 
 ## Gaussian SLAM:
 ## 2024:
+- **SA-GS: Semantic-Aware Gaussian Splatting for Large Scene Reconstruction with Geometry Constrain**, Xiong et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2405.16923)
+
 - **SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**, Li et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2402.03246.pdf) | [🎥 Demo Video](https://www.youtube.com/watch?v=y83yw1E-oUo)
 
 - **SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM**, Zhu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.07494.pdf)
