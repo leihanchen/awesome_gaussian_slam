@@ -47,6 +47,9 @@ A curated list of papers and open-source resources focused on gaussian based sla
 <br>
  **July 16, 2024**
  - Add survey and theory sections
+ <br>
+ **August 9, 2024**
+ - Add relevant papers and viewers
 </details>
 
 <br>
@@ -75,6 +78,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review**, Dalal et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2405.03417.pdf)
 
 ## Gaussian Theory:
+- **Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing**, Xu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.10050) | [🌐 Project Page](https://slothfulxtx.github.io/TexGS/) | [💻 Code](https://github.com/slothfulxtx/Texture-GS)
+
+- **Segment Any 4D Gaussians**, Ji et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2407.04504v2) | [🌐 Project Page](https://jsxzs.github.io/sa4d/) | [💻 Code](https://github.com/jsxzs/SA4D)
+
 - **[SIGGRAPH '24]2D Gaussian Splatting for Geometrically Accurate Radiance Fields**, Huang et al., SIGGRAPH 2024 | [📄 Paper](https://arxiv.org/pdf/2402.03246.pdf) | [🌐 Project Page](https://surfsplatting.github.io/) | [💻 Code](https://github.com/hbb1/2d-gaussian-splatting)
 
 - **PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.06521.pdf) | [🌐 Project Page](https://zju3dv.github.io/pgsr/) | [💻 Code](https://github.com/zju3dv/PGSR)
@@ -88,6 +95,8 @@ Wu et al., CVPR 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528.pdf) | [�
 
 ## Gaussian SLAM:
 ## 2024:
+- **RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**, Peng et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2404.19706) | [💻 Code](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM)
+
 - **SA-GS: Semantic-Aware Gaussian Splatting for Large Scene Reconstruction with Geometry Constrain**, Xiong et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2405.16923)
 
 - **SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**, Li et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2402.03246.pdf) | [🎥 Demo Video](https://www.youtube.com/watch?v=y83yw1E-oUo)
@@ -229,6 +238,7 @@ Wu et al., CVPR 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528.pdf) | [�
 - [spaTV](https://github.com/antimatter15/splaTV) - WebGL Viewer for 4D Gaussians (based on SpaceTime Gaussian) with demo [here](http://antimatter15.com/splaTV/)
 - [Taichi Viewer](https://github.com/uc-vision/splat-viewer)
 - [uc-vision-splat-viewer](https://github.com/uc-vision/splat-viewer)(3D gaussin splatting renderer with benchmarking capability)
+- [2d gaussian viewer](https://github.com/hwanhuh/2D-GS-Viser-Viewer)(2D gaussian splatting WebGPU viewer with Viser)
 
 ### Utilities
 - [Kapture](https://github.com/naver/kapture) - A unified data format to facilitate visual localization and structure from motion e.g. for bundler to colmap model conversion
