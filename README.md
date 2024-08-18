@@ -59,13 +59,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 ## Introduction:
 
 ### Nerf:
-
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 | [📄 Paper](https://arxiv.org/abs/2003.08934.pdf) | [💻 Code](https://github.com/bmild/nerf)
 
 ### 3D Gaussian Splatting:
-
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), Kerbl et al., SIGGRAPH 2023 | [📄 Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | [💻 Code](https://github.com/graphdeco-inria/gaussian-splatting) | [🎥 Short Presentation](https://youtu.be/T_kXY43VZnk?si=DrkbDFxQAv5scQNT) | [🎥 Explanation Video](https://www.youtube.com/live/xgwvU7S0K-k?si=edF8NkYtsRbgTbKi)
-
 <br>
 
 ## Survey:
@@ -85,7 +82,6 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review**, Dalal et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2405.03417.pdf)
 
 ## Gaussian Theory:
-
 - **Gaussian Splatting Lucas-Kanade**, Xie et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2407.11309v1)
 
 - **InstantSplat: Sparse-view SfM-free Gaussian Splatting in Seconds**, Fan et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.20309) | [🌐 Project Page](https://instantsplat.github.io/) | [💻 Code](https://github.com/NVlabs/InstantSplat) | [🎥 Demo Video](https://www.youtube.com/watch?v=JdfrG89iPOA&t=347s) | [🎥 Demo](https://huggingface.co/spaces/kairunwen/InstantSplat)
@@ -106,8 +102,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **[CVPR '24 Best Student Paper]Mip-Splatting Alias-free 3D Gaussian Splatting**, Yu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2311.16493.pdf) | [🌐 Project Page](https://niujinshuchong.github.io/mip-splatting/) | [💻 Code](https://github.com/autonomousvision/mip-splatting)
 
 ## Gaussian SLAM:
-
 ## 2024:
+- **IG-SLAM: Instant Gaussian SLAM**, Sarikamis and Alatan, arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.01126)
 
 - **EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting**, Wang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.15124)
 
@@ -194,6 +190,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
 ## 3D Reconstruction:
 
 ## 2024:
+- **3DGSR: Implicit Surface Reconstruction with 3D Gaussian Splatting**, Lyu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2404.00409) | [💻 Code](https://github.com/CVMI-Lab/3DGSR)
 
 - **RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**, Peng et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2404.19706) | [💻 Code](https://github.com/Lab-of-AI-and-Robotics/GS_ICP_SLAM)
 
@@ -284,6 +281,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 ### Tutorial
 
 - [Tutorial from the authors of 3DGS](https://3dgstutorial.github.io/)
+- [3D Gaussian Splatting Tutorial](https://3dgstutorial.github.io/), Kopanas et al., 3DV 2024 
+- [3DGS render in Python](https://github.com/SY-007-Research/3dgs_render_python)
 
 ### Framework
 
