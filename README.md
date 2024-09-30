@@ -77,8 +77,6 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**, Chen et al., TPAMI 2024 | [📄 Paper](https://arxiv.org/pdf/2407.17418.pdf)[🌐 Project Page](https://github.com/qqqqqqy0227/awesome-3DGS)
 
-- **A Survey on 3D Gaussian Splatting**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2401.03890.pdf)
-
 - **3D Gaussian as a New Vision Era: A Survey**, Fei et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2402.07181.pdf)
 
 - **Recent Advances in 3D Gaussian Splatting**, Wu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.11134.pdf)
@@ -111,7 +109,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2024:
-- **MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting**, Hu et al., arXiv 2024 | [📄 Paper](https://www.arxiv.org/pdf/2409.13055) | [🌐 Project Page](https://gs-fusion.github.io/) | [💻 Code](https://github.com/GS-Fusion/GSFusion) | | [🎥 Video](https://www.youtube.com/watch?v=rW8o_cRPZBg)
+- **LI-GS: Gaussian Splatting with LiDAR Incorporated
+for Accurate Large-Scale Reconstruction**, Jiang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2409.12899) | [🌐 Project Page](https://changjianjiang01.github.io/LI-GS/) | | [🎥 Video](https://www.youtube.com/watch?v=DSsTCbD4mJQ)
+
+- **MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting**, Hu et al., arXiv 2024 | [📄 Paper](https://www.arxiv.org/abs/2409.13055)
 
 - **GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**, Wei and Leutenegger, arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.12677) | [🌐 Project Page](https://gs-fusion.github.io/) | [💻 Code](https://github.com/GS-Fusion/GSFusion) | | [🎥 Video](https://www.youtube.com/watch?v=rW8o_cRPZBg)
 
