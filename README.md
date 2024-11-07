@@ -18,7 +18,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - [Large-Scale](#large-scale)
 - [3D Reconstruction](#3d-reconstruction)
 - [Gaussian Surfel ](#gaussian-surfel)
-
+- [3D Generation ](#3D-Generations)
 <br>
 
 - [Data](#data)
@@ -56,6 +56,9 @@ A curated list of papers and open-source resources focused on gaussian based sla
  <br>
  **September 27, 2024**
  - Add relevant papers, reorganize sections
+  <br>
+ **November 07, 2024**
+ - Add relevant papers, add 3d generation section
 </details>
 
 <br>
@@ -84,9 +87,15 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review**, Dalal et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2405.03417.pdf)
 
 ## Gaussian Theory:
+- **No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**, Ye et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.24207) | [🌐 Project Page](https://noposplat.github.io/) | [💻 Code](https://github.com/cvg/NoPoSplat)
+
 - **Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**, Ren et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.17898) | [🌐 Project Page](https://city-super.github.io/octree-gs/) | [💻 Code](https://github.com/city-super/Octree-GS)
 
 - **3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes**, Moenne-Loccoz et al., arXiv 2024 | [📄 Paper](https://www.arxiv.org/abs/2407.07090) | [🌐 Project Page](https://gaussiantracer.github.io/) | [🎥 Video](https://gaussiantracer.github.io/#supp_video)
+
+- **3D Gaussian Splatting as Markov Chain Monte Carlo**, Ye et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2404.09591) | [🌐 Project Page](https://ubc-vision.github.io/3dgs-mcmc/) | [💻 Code](https://github.com/ubc-vision/3dgs-mcmc)
+
+- **AbsGS: Recovering Fine Details for 3D Gaussian Splatting**, Ye et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2404.10484) | [🌐 Project Page](https://ty424.github.io/AbsGS.github.io/) | [💻 Code](https://github.com/TY424/AbsGS)
 
 - **[CVPR '24 Highlight]Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**, Lu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2312.00109) | [🌐 Project Page](https://city-super.github.io/scaffold-gs/) | [💻 Code](https://github.com/city-super/Scaffold-GS)
 
@@ -115,6 +124,8 @@ for Accurate Large-Scale Reconstruction**, Jiang et al., arXiv 2024 | [📄 Pape
 - **MGSO: Monocular Real-time Photometric SLAM with Efficient 3D Gaussian Splatting**, Hu et al., arXiv 2024 | [📄 Paper](https://www.arxiv.org/abs/2409.13055)
 
 - **GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**, Wei and Leutenegger, arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.12677) | [🌐 Project Page](https://gs-fusion.github.io/) | [💻 Code](https://github.com/GS-Fusion/GSFusion) | | [🎥 Video](https://www.youtube.com/watch?v=rW8o_cRPZBg)
+
+- **Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**, Qu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.05635)
 
 - **IG-SLAM: Instant Gaussian SLAM**, Sarikamis and Alatan, arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.01126)
 
@@ -203,6 +214,8 @@ for Accurate Large-Scale Reconstruction**, Jiang et al., arXiv 2024 | [📄 Pape
 ## 3D Reconstruction:
 
 ## 2024:
+- **[CVPR 2024 Oral, Best Paper Runner-Up] pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction**, Charatan et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2312.12337) | [🌐 Project Page](https://davidcharatan.com/pixelsplat/) | [💻 Code](https://github.com/dcharatan/pixelsplat)
+
 - **PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.06521.pdf) | [🌐 Project Page](https://zju3dv.github.io/pgsr/) | [💻 Code](https://github.com/zju3dv/PGSR)
 
 - **Gaussian Opacity Fields: Efficient and Compact Surface Reconstruction in Unbounded Scenes**, Yu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2404.10772) | [🌐 Project Page](https://niujinshuchong.github.io/gaussian-opacity-fields/) | [💻 Code](https://github.com/autonomousvision/gaussian-opacity-fields)
@@ -242,6 +255,10 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 - **Surfel-based RGB-D Reconstruction and
 SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](https://www.cs.cmu.edu/~kaess/pub/Yang19thesis_ms.pdf)
 
+## 3D Generations:
+
+## 2024:
+- **VistaDream Sampling multiview consistent images for single-view scene reconstruction**, Wang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.16892) | [🌐 Project Page](https://vistadream-project-page.github.io/l) | [💻 Code](https://github.com/WHU-USI3DV/VistaDream)
 ## Data
 
 - [NERDS 360 Multi-View dataset for Outdoor Scenes](https://zubair-irshad.github.io/projects/neo360.html)
