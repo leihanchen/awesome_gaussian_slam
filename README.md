@@ -73,6 +73,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
 <br>
 
 ## Survey:
+- **Scene reconstruction techniques for autonomous driving: a review of 3D Gaussian splatting**, Zhu et al., Artificial Intelligence Review 2024 | [📄 Paper](https://link.springer.com/content/pdf/10.1007/s10462-024-10955-4.pdf)
 
 - **A Survey on 3D Gaussian Splatting**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2401.03890.pdf)
 
@@ -200,6 +201,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 ## Large-Scale:
 
 ## 2024:
+- **CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.00771) | [🌐 Project Page](https://dekuliutesla.github.io/CityGaussianV2/)| [💻 Code](https://github.com/DekuLiuTesla/CityGaussian)
+
+- **Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction**, Fan et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.00771) | [🌐 Project Page](https://jixuan-fan.github.io/Momentum-GS_Page/)| [💻 Code](https://github.com/Jixuan-Fan/Momentum-GS)
+
 - **[ECCV 2024]Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting**, Yan et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2401.01339) | [🌐 Project Page](https://zju3dv.github.io/street_gaussians/) | [💻 Code](https://github.com/zju3dv/street_gaussians)
 
 - **GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2409.06685) | [💻 Code (Not Ready)](https://github.com/Open3DVLab/GigaGS)
@@ -221,6 +226,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 ## 3D Reconstruction:
 
 ## 2024:
+- **SplatFormer Point Transformer for Robust 3D Gaussian Splatting**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.06390) | [🌐 Project Page](https://sergeyprokudin.github.io/splatformer/) | [💻 Code](https://github.com/ChenYutongTHU/SplatFormer)
+
 - **[CVPR 2024 Oral, Best Paper Runner-Up] pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction**, Charatan et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2312.12337) | [🌐 Project Page](https://davidcharatan.com/pixelsplat/) | [💻 Code](https://github.com/dcharatan/pixelsplat)
 
 - **PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.06521.pdf) | [🌐 Project Page](https://zju3dv.github.io/pgsr/) | [💻 Code](https://github.com/zju3dv/PGSR)
