@@ -88,6 +88,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review**, Dalal et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2405.03417.pdf)
 
 ## Gaussian Theory:
+- **Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields**, Lu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.13547) | [🌐 Project Page](https://ivl.cs.brown.edu/research/turbo-gs) | | [💻 Code](https://github.com/inspirelt/Turbo-GS)
+
+- **LeanGaussian: Breaking Pixel or Point Cloud Correspondence in Modeling 3D Gaussians**, Wu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2404.16323) | [🌐 Project Page](https://kenkunliu.github.io/DIG3D/) | | [💻 Code](https://github.com/jwubz123/DIG3D)
+
 - **[NeurIPS' 24]DiffGS: Functional Gaussian Splatting Diffusion**, Zhou et al., arXiv 2024 | [📄 Paper](https://arxiv.org/html/2410.19657v1) | [🌐 Project Page](https://junshengzhou.github.io/DiffGS/) | | [💻 Code](https://github.com/weiqi-zhang/DiffGS)
 
 - **No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**, Ye et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.24207) | [🌐 Project Page](https://noposplat.github.io/) | [💻 Code](https://github.com/cvg/NoPoSplat)
@@ -201,6 +205,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 ## Large-Scale:
 
 ## 2024:
+- **GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**, Zuo et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.10373) | [💻 Code](https://github.com/zuosc19/GaussianWorld)
+
+- **[ECCV 2024]Gaussian Grouping: Segment and Edit Anything in 3D Scenes**, Ye et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2312.00732) | [🌐 Project Page](https://ymq2017.github.io/gaussian-grouping/)| [💻 Code](https://github.com/lkeab/gaussian-grouping)
+
 - **CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.00771) | [🌐 Project Page](https://dekuliutesla.github.io/CityGaussianV2/)| [💻 Code](https://github.com/DekuLiuTesla/CityGaussian)
 
 - **Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction**, Fan et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.00771) | [🌐 Project Page](https://jixuan-fan.github.io/Momentum-GS_Page/)| [💻 Code](https://github.com/Jixuan-Fan/Momentum-GS)
@@ -275,7 +283,14 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 ## 3D Generations:
 
 ## 2024:
+- **Structured 3D Latents for Scalable and Versatile 3D Generation**, Xiang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.01506) | [🌐 Project Page](https://trellis3d.github.io/) | [💻 Code](https://github.com/microsoft/TRELLIS)
+
+- **[ECCV 2024 Oral] LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation**, Ren et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2402.05054) | [🌐 Project Page](https://me.kiui.moe/lgm/) | [💻 Code](https://github.com/3DTopia/LGM)
+
+- **[NeurIPS' 24] SCube: Instant Large-Scale Scene Reconstruction using VoxSplats**, Ren et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.20030) | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/scube/) | [💻 Code](https://github.com/nv-tlabs/SCube)
+
 - **DiffusionGS: Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**, Cai et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.14384v1) | [🌐 Project Page](https://caiyuanhao1998.github.io/project/DiffusionGS/) | [💻 Code](https://github.com/caiyuanhao1998/Open-DiffusionGS)
+
 - **VistaDream Sampling multiview consistent images for single-view scene reconstruction**, Wang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.16892) | [🌐 Project Page](https://vistadream-project-page.github.io/l) | [💻 Code](https://github.com/WHU-USI3DV/VistaDream)
 ## Data
 
