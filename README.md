@@ -239,13 +239,24 @@ A curated list of papers and open-source resources focused on gaussian based sla
   <br>
 
 ## 3D Reconstruction:
+## 2025:
+- **VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**, Cong et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.01949) | [🌐 Project Page](https://videolifter.github.io/) | [💻 Code]()
+
+- **[AAAI' 25]FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency**, Huang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.04628) | [🌐 Project Page](https://alvin528.github.io/FatesGS/) | [💻 Code](https://github.com/yulunwu0108/FatesGS)
 
 ## 2024:
+- **LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.09597) | [🌐 Project Page](https://liftimage3d.github.io/) | [💻 Code](https://github.com/AbrahamYabo/LiftImage3D)
+
 - **CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**, Gao et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.17612) | [🌐 Project Page](https://gyy456.github.io/CoSurfGS/) | [💻 Code](https://github.com/zju3dv/CoSurfGS)
 
 - **Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs**, Smart et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.13912) | [🌐 Project Page](https://splatt3r.active.vision/) | [💻 Code](https://github.com/btsmart/splatt3r)
 
 - **QGS: Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**, Zhang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.16392) | [🌐 Project Page](https://quadraticgs.github.io/QGS/) | [💻 Code](https://github.com/QuadraticGS/QGS)
+<<<<<<< HEAD
+=======
+
+- **[ECCV 2024] Gs-lrm: Large reconstruction model for 3d gaussian splatting**, Zhang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2404.19702) | [🌐 Project Page](https://sai-bi.github.io/project/gs-lrm/) | [💻 Code]()
+>>>>>>> 922ee9564d5ed9538c06cf351e09d21d964eb4ce
 
 - **SplatFormer Point Transformer for Robust 3D Gaussian Splatting**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.06390) | [🌐 Project Page](https://sergeyprokudin.github.io/splatformer/) | [💻 Code](https://github.com/ChenYutongTHU/SplatFormer)
 
@@ -295,6 +306,17 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 - **GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**, Hu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2412.19505) | [🌐 Project Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html) | [💻 Code](https://github.com/Qi-Zhangyang/gpt4scene)
 
 ## 2024:
+
+- **[NVIDIA]Cosmos World Foundation Model Platform for Physical AI**, Agarwal et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.03575) | [🌐 Project Page](https://research.nvidia.com/labs/dir/cosmos1/) | [💻 Code](https://github.com/NVIDIA/Cosmos) | [🎥 Video](https://www.youtube.com/watch?v=9Uch931cDx8) | [🎥 Demo](https://huggingface.co/collections/nvidia/cosmos-6751e884dc10e013a0a0d8e6)
+
+
+## 2024:
+- **PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.18608) | [🌐 Project Page](https://silent-chen.github.io/PartGen/) | [💻 Code]() | [🎥 Explanation Video](https://www.youtube.com/watch?v=Ma_Nk85L3d4)
+
+- **CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models**, Wu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.12096) | [🌐 Project Page](https://cat-4d.github.io/) | [💻 Code](https://github.com/aigc3d/AniGS)
+
+- **AniGS: Animatable Gaussian Avatar from a Single Image with Inconsistent Gaussian Reconstruction**, Qiu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.02684) | [🌐 Project Page](https://lingtengqiu.github.io/2024/AniGS/) | [💻 Code](https://github.com/aigc3d/AniGS) | [🎥 Video](https://www.youtube.com/watch?v=e9qgMMvYMr4)
+
 - **PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**, Zhang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.12096) | [🌐 Project Page](https://chengzhag.github.io/publication/pansplat/) | [💻 Code](https://github.com/chengzhag/PanSplat)
 
 - **DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT**, Qi et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2501.01428) | [🌐 Project Page](https://gpt4scene.github.io/) | [💻 Code](https://github.com/YvanYin/DrivingWorld)
@@ -321,6 +343,7 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 
 - **VistaDream Sampling multiview consistent images for single-view scene reconstruction**, Wang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.16892) | [🌐 Project Page](https://vistadream-project-page.github.io/l) | [💻 Code](https://github.com/WHU-USI3DV/VistaDream)
 
+- **[ICLR' 24]DreamFlow: High-Quality Text-to-3D Generation by Approximating Probability Flow**, Lee et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.14966) | [🌐 Project Page](https://kyungmnlee.github.io/dreamflow.github.io/) | [💻 Code]()
 
 ## 2023:
 - **[CVPR' 24]Wonder3D: Single Image to 3D using Cross-Domain Diffusion**, Long et al., arXiv 2023 | [📄 Paper](https://arxiv.org/abs/2310.15008) | [🌐 Project Page](https://www.xxlong.site/Wonder3D/) | [💻 Code](https://github.com/xxlong0/Wonder3D) | [🎥 Demo](https://huggingface.co/spaces/flamehaze1115/Wonder3D-demo)
