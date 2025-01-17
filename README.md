@@ -131,6 +131,12 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025:
+- **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Hu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.07015) | [🎥 Video](https://www.youtube.com/watch?v=Pr_kyWQQkGo)
+
+- **GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**, Hong et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.08672) | [💻 Code](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) 
+
+- **VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**, Wu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.08286) 
+
 - **Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**, Wen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.05242) 
 
 ## 2024:
@@ -206,6 +212,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**, Yu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.20079.pdf)
 
 ## Poses:
+## 2025:
+- **CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**, Ma et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.08982)
 
 ## 2024:
 - **[ECCV '24]GGRt: Towards Generalizable 3D Gaussians without Pose Priors in Real-Time**, Li et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.10147) | [🌐 Project Page](https://3d-aigc.github.io/GGRt/)
@@ -250,7 +258,11 @@ A curated list of papers and open-source resources focused on gaussian based sla
 ## 2024:
 - **LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.09597) | [🌐 Project Page](https://liftimage3d.github.io/) | [💻 Code](https://github.com/AbrahamYabo/LiftImage3D)
 
+- **ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.16767) | [🌐 Project Page](https://liuff19.github.io/ReconX/) | [💻 Code](https://github.com/liuff19/ReconX) | [🎥 Video](https://www.youtube.com/watch?v=UuL2nP5rJcI) | [🎥 Demo]()
+
 - **CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**, Gao et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.17612) | [🌐 Project Page](https://gyy456.github.io/CoSurfGS/) | [💻 Code](https://github.com/zju3dv/CoSurfGS)
+
+- **[ECCV' 24]latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction**, Wewer et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.16292) | [🌐 Project Page](https://geometric-rl.mpi-inf.mpg.de/latentsplat/) | [💻 Code](https://github.com/Chrixtar/latentsplat)
 
 - **Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs**, Smart et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.13912) | [🌐 Project Page](https://splatt3r.active.vision/) | [💻 Code](https://github.com/btsmart/splatt3r)
 
@@ -301,11 +313,15 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 
 ## 3D Generations:
 ## 2025:
+- **SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**, Huang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.04689) | [🌐 Project Page](https://spar3d.github.io/) | [💻 Code](https://github.com/Stability-AI/stable-point-aware-3d) | [🎥 Video](https://www.youtube.com/watch?v=mlO3Nc3Nsng) | [🎥 Demo](https://huggingface.co/spaces/stabilityai/stable-point-aware-3d)
+
 - **GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**, Hu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2412.19505) | [🌐 Project Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html) | [💻 Code](https://github.com/Qi-Zhangyang/gpt4scene)
 
 - **[NVIDIA]Cosmos World Foundation Model Platform for Physical AI**, Agarwal et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.03575) | [🌐 Project Page](https://research.nvidia.com/labs/dir/cosmos1/) | [💻 Code](https://github.com/NVIDIA/Cosmos) | [🎥 Video](https://www.youtube.com/watch?v=9Uch931cDx8) | [🎥 Demo](https://huggingface.co/collections/nvidia/cosmos-6751e884dc10e013a0a0d8e6)
 
 ## 2024:
+- **Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**, Yang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.21117) | [🌐 Project Page](https://freemty.github.io/project-prometheus/) | [💻 Code](https://github.com/XDimLab/Prometheus) | [🎥 Video](https://www.youtube.com/watch?v=N_L_ecSiIJA)
+
 - **[NeurIPS' 24]GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping**, Seo et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2405.17251) | [🌐 Project Page](https://genwarp-nvs.github.io/) | [💻 Code](https://github.com/sony/genwarp) | [🎥 Demo](https://huggingface.co/spaces/Sony/genwarp)
 
 - **PartGen: Part-level 3D Generation and Reconstruction with Multi-View Diffusion Models**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.18608) | [🌐 Project Page](https://silent-chen.github.io/PartGen/) | [💻 Code]() | [🎥 Explanation Video](https://www.youtube.com/watch?v=Ma_Nk85L3d4)
