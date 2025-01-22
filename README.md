@@ -91,6 +91,9 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review**, Dalal et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2405.03417.pdf)
 
 ## Gaussian Optimization:
+## 2025:
+- **MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**, Kwak et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.03714) | [🌐 Project Page](https://kaist-viclab.github.io/MoDecGS-site/) | | [💻 Code]()
+
 - **MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.20522) | [🌐 Project Page]() | | [💻 Code](https://github.com/kaikai23/MaskGaussian)
 
 - **Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields**, Lu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.13547) | [🌐 Project Page](https://ivl.cs.brown.edu/research/turbo-gs) | | [💻 Code](https://github.com/inspirelt/Turbo-GS)
@@ -131,6 +134,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025:
+- **MapGS: Generalizable Pretraining and Data Augmentation for Online Mapping via Novel View Synthesis**, Zhang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.06660) | [🌐 Project Page](https://henryzhangzhy.github.io/mapgs/)
+
 - **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Hu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.07015) | [🎥 Video](https://www.youtube.com/watch?v=Pr_kyWQQkGo)
 
 - **GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**, Hong et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.08672) | [💻 Code](https://github.com/HKUST-Aerial-Robotics/GS-LIVO) 
@@ -362,6 +367,7 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 - **[CVPR' 24]Wonder3D: Single Image to 3D using Cross-Domain Diffusion**, Long et al., arXiv 2023 | [📄 Paper](https://arxiv.org/abs/2310.15008) | [🌐 Project Page](https://www.xxlong.site/Wonder3D/) | [💻 Code](https://github.com/xxlong0/Wonder3D) | [🎥 Demo](https://huggingface.co/spaces/flamehaze1115/Wonder3D-demo)
 
 ## Data
+- [uCO3D High resolution object dataset with more than 1000 categories](https://github.com/facebookresearch/uco3d)
 
 - [NERDS 360 Multi-View dataset for Outdoor Scenes](https://zubair-irshad.github.io/projects/neo360.html)
 
