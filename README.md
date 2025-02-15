@@ -18,7 +18,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - [Large-Scale](#large-scale)
 - [3D Reconstruction](#3d-reconstruction)
 - [Gaussian Surfel ](#gaussian-surfel)
-- [3D Generation ](#3D-Generations)
+- [3D Generation ](#3d-generations)
 <br>
 
 - [Data](#data)
@@ -76,6 +76,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 <br>
 
 ## Survey:
+- **Embodied Intelligence for 3D Understanding: A Survey on 3D Scene Question Answering**, Li et al., arXiv 2025  | [📄 Paper](https://arxiv.org/abs/2502.00342)
+
 - **Scene reconstruction techniques for autonomous driving: a review of 3D Gaussian splatting**, Zhu et al., Artificial Intelligence Review 2024 | [📄 Paper](https://link.springer.com/content/pdf/10.1007/s10462-024-10955-4.pdf)
 
 - **A Survey on 3D Gaussian Splatting**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2401.03890.pdf)
@@ -92,8 +94,11 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **HAC++: Towards 100X Compression of 3D Gaussian Splatting**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.12255) | [🌐 Project Page](https://yihangchen-ee.github.io/project_hac++/) | | [💻 Code](https://github.com/YihangChen-ee/HAC-plus)
+
 - **MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**, Kwak et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.03714) | [🌐 Project Page](https://kaist-viclab.github.io/MoDecGS-site/) | | [💻 Code]()
 
+## 2024:
 - **MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.20522) | [🌐 Project Page]() | | [💻 Code](https://github.com/kaikai23/MaskGaussian)
 
 - **Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields**, Lu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.13547) | [🌐 Project Page](https://ivl.cs.brown.edu/research/turbo-gs) | | [💻 Code](https://github.com/inspirelt/Turbo-GS)
@@ -105,6 +110,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**, Ye et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.24207) | [🌐 Project Page](https://noposplat.github.io/) | [💻 Code](https://github.com/cvg/NoPoSplat)
 
 - **Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians**, Ren et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.17898) | [🌐 Project Page](https://city-super.github.io/octree-gs/) | [💻 Code](https://github.com/city-super/Octree-GS)
+
+- **TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**, Guo et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2405.20283) | [💻 Code](https://github.com/gmh14/tssplat)
 
 - **MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.14627) | [🌐 Project Page](https://donydchen.github.io/mvsplat/) | [💻 Code](https://github.com/donydchen/mvsplat)
 
@@ -133,7 +140,9 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **[CVPR '24]COLMAP-Free 3D Gaussian Splatting**, Fu et al., arXiv 2023 | [📄 Paper](https://arxiv.org/abs/2312.07504) | [🌐 Project Page](https://oasisyang.github.io/colmap-free-3dgs/) | [💻 Code](https://github.com/NVlabs/CF-3DGS) | [🎥 Video](https://www.youtube.com/watch?v=mGeVQS4ExK4)
 
 ## Gaussian SLAM:
-## 2025:
+## 2025
+- **PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**, Pan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.05752) | [🌐 Project Page]() | [💻 Code](https://github.com/PRBonn/PINGS)
+
 - **MapGS: Generalizable Pretraining and Data Augmentation for Online Mapping via Novel View Synthesis**, Zhang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.06660) | [🌐 Project Page](https://henryzhangzhy.github.io/mapgs/)
 
 - **SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**, Hu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.07015) | [🎥 Video](https://www.youtube.com/watch?v=Pr_kyWQQkGo)
@@ -198,7 +207,6 @@ A curated list of papers and open-source resources focused on gaussian based sla
 <br>
 
 ## Navigation:
-
 ## 2024:
 - **Wonderland: Navigating 3D Scenes from a Single Image**, Liang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.12091) | [🌐 Project Page](https://snap-research.github.io/wonderland/) | [💻 Code]()
 
@@ -217,6 +225,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**, Yu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.20079.pdf)
 
 ## Poses:
+
 ## 2025:
 - **CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**, Ma et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.08982)
 
@@ -225,7 +234,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation**, Cai et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.10683) | [🌐 Project Page](https://dingdingcai.github.io/gs-pose/) | [💻 Code](https://github.com/dingdingcai/GS-pose) | [🎥 Short Presentation](https://youtu.be/SnJazusDLM8)
 
-## Large-Scale:
+## Large Scale:
 
 ## 2024:
 - **GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**, Zuo et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.10373) | [💻 Code](https://github.com/zuosc19/GaussianWorld)
@@ -256,6 +265,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Reconstruction:
 ## 2025:
+- **Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**, Yang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.13928) | [🌐 Project Page](https://fast3r-3d.github.io/) | [💻 Code](https://fast3r-3d.github.io/)
+
+- **Light3R-SfM: Towards Feed-forward Structure-from-Motion**, Elflein et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.14914)
+
 - **VideoLifter: Lifting Videos to 3D with Fast Hierarchical Stereo Alignment**, Cong et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.01949) | [🌐 Project Page](https://videolifter.github.io/) | [💻 Code]()
 
 - **[AAAI' 25]FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency**, Huang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.04628) | [🌐 Project Page](https://alvin528.github.io/FatesGS/) | [💻 Code](https://github.com/yulunwu0108/FatesGS)
@@ -267,9 +280,11 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**, Gao et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.17612) | [🌐 Project Page](https://gyy456.github.io/CoSurfGS/) | [💻 Code](https://github.com/zju3dv/CoSurfGS)
 
-- **[ECCV' 24]latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction**, Wewer et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.16292) | [🌐 Project Page](https://geometric-rl.mpi-inf.mpg.de/latentsplat/) | [💻 Code](https://github.com/Chrixtar/latentsplat)
+- **[ECCV' 24]latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction**, Wewer et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.16292) | [🌐 Project Page](https://hengyiwang.github.io/projects/spanner) | [💻 Code](https://github.com/HengyiWang/spann3r)
 
 - **Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs**, Smart et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.13912) | [🌐 Project Page](https://splatt3r.active.vision/) | [💻 Code](https://github.com/btsmart/splatt3r)
+
+- **[3DV' 25]] 3D Reconstruction with Spatial Memory**, Wang and Agapito, arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.16061) | [🌐 Project Page](https://splatt3r.active.vision/) | [💻 Code](https://github.com/btsmart/splatt3r)
 
 - **QGS: Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**, Zhang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.16392) | [🌐 Project Page](https://quadraticgs.github.io/QGS/) | [💻 Code](https://github.com/QuadraticGS/QGS)
 
@@ -318,6 +333,12 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 
 ## 3D Generations:
 ## 2025:
+- **Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation**, Zhao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.12202) | [🌐 Project Page](https://3d-models.hunyuan.tencent.com/) | [💻 Code](https://github.com/Tencent/Hunyuan3D-2) | [🎥 Demo](https://huggingface.co/spaces/tencent/Hunyuan3D-2) 
+
+- **Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**, Krishnan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.13087v1) | [🌐 Project Page](https://orchid3d.github.io/) | [💻 Code]()
+
+- **CityDreamer4D: Compositional Generative Model of Unbounded 4D Cities**, Xie et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.08983) | [🌐 Project Page](https://www.infinitescript.com/project/city-dreamer-4d) | [💻 Code](https://github.com/hzxie/CityDreamer4D) | [🎥 Video](https://www.youtube.com/watch?v=PF6W0Nd27Tk) 
+
 - **SPAR3D: Stable Point-Aware Reconstruction of 3D Objects from Single Images**, Huang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.04689) | [🌐 Project Page](https://spar3d.github.io/) | [💻 Code](https://github.com/Stability-AI/stable-point-aware-3d) | [🎥 Video](https://www.youtube.com/watch?v=mlO3Nc3Nsng) | [🎥 Demo](https://huggingface.co/spaces/stabilityai/stable-point-aware-3d)
 
 - **GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**, Hu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2412.19505) | [🌐 Project Page](https://huxiaotaostasy.github.io/DrivingWorld/index.html) | [💻 Code](https://github.com/Qi-Zhangyang/gpt4scene)
@@ -344,6 +365,8 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 - **[AAAI' 25]SceneX: Procedural Controllable Large-scale Scene Generation**, Zhou et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.15698) | [🌐 Project Page](https://zhouzq1.github.io/SceneX/) | [💻 Code](https://github.com/zhouzq1/SceneX)
 
 - **[CVPR' 24]One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2311.07885) | [🌐 Project Page](https://sudo-ai-3d.github.io/One2345plus_page/) | [💻 Code](https://github.com/SUDO-AI-3D/One2345plus) | [🎥 Demo](https://www.sudo.ai/3dgen)
+
+- **[CVPR' 24] DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.04322) | [🌐 Project Page](https://direct-3d.github.io/) | [💻 Code](https://github.com/qihao067/direct3d)
 
 - **PanoDreamer: 3D Panorama Synthesis from a Single Image**, Paliwal et al., arXiv 2024 | [📄 Paper](http://arxiv.org/abs/2412.04827v1) | [🌐 Project Page](https://people.engr.tamu.edu/nimak/Papers/PanoDreamer) | [💻 Code](https://github.com/avinashpaliwal/PanoDreamer)
 
