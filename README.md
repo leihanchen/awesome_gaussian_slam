@@ -94,6 +94,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**, He et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.11508)
+
 - **HAC++: Towards 100X Compression of 3D Gaussian Splatting**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.12255) | [🌐 Project Page](https://yihangchen-ee.github.io/project_hac++/) | | [💻 Code](https://github.com/YihangChen-ee/HAC-plus)
 
 - **MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**, Kwak et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.03714) | [🌐 Project Page](https://kaist-viclab.github.io/MoDecGS-site/) | | [💻 Code]()
@@ -139,8 +141,11 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **[CVPR '24]COLMAP-Free 3D Gaussian Splatting**, Fu et al., arXiv 2023 | [📄 Paper](https://arxiv.org/abs/2312.07504) | [🌐 Project Page](https://oasisyang.github.io/colmap-free-3dgs/) | [💻 Code](https://github.com/NVlabs/CF-3DGS) | [🎥 Video](https://www.youtube.com/watch?v=mGeVQS4ExK4)
 
+
 ## Gaussian SLAM:
 ## 2025
+- **DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.09111) 
+
 - **PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**, Pan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.05752) | [🌐 Project Page]() | [💻 Code](https://github.com/PRBonn/PINGS)
 
 - **MapGS: Generalizable Pretraining and Data Augmentation for Online Mapping via Novel View Synthesis**, Zhang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.06660) | [🌐 Project Page](https://henryzhangzhy.github.io/mapgs/)
@@ -207,6 +212,9 @@ A curated list of papers and open-source resources focused on gaussian based sla
 <br>
 
 ## Navigation:
+## 2025:
+- **GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting**, Zhou et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.10975)
+
 ## 2024:
 - **Wonderland: Navigating 3D Scenes from a Single Image**, Liang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.12091) | [🌐 Project Page](https://snap-research.github.io/wonderland/) | [💻 Code]()
 
@@ -224,8 +232,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **SGD: Street View Synthesis with Gaussian Splatting and Diffusion Prior**, Yu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.20079.pdf)
 
-## Poses:
 
+## Poses:
 ## 2025:
 - **CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**, Ma et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.08982)
 
@@ -234,8 +242,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **GS-Pose: Cascaded Framework for Generalizable Segmentation-based 6D Object Pose Estimation**, Cai et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.10683) | [🌐 Project Page](https://dingdingcai.github.io/gs-pose/) | [💻 Code](https://github.com/dingdingcai/GS-pose) | [🎥 Short Presentation](https://youtu.be/SnJazusDLM8)
 
-## Large Scale:
 
+## Large Scale:
 ## 2024:
 - **GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction**, Zuo et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.10373) | [💻 Code](https://github.com/zuosc19/GaussianWorld)
 
@@ -263,8 +271,11 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **On Scaling Up 3D Gaussian Splatting Training**, Zhao et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.18533) | [🌐 Project Page](https://daohanlu.github.io/scaling-up-3dgs/) | [💻 Code](https://github.com/nyu-systems/Grendel-GS)
   <br>
 
+
 ## 3D Reconstruction:
 ## 2025:
+- **Building Rome with Convex Optimization**, Han and Yang, arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.04640) | [🌐 Project Page](https://computationalrobotics.seas.harvard.edu/XM/) | [💻 Code]()
+
 - **Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**, Yang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.13928) | [🌐 Project Page](https://fast3r-3d.github.io/) | [💻 Code](https://fast3r-3d.github.io/)
 
 - **Light3R-SfM: Towards Feed-forward Structure-from-Motion**, Elflein et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.14914)
@@ -309,8 +320,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **Direct Learning of Mesh and Appearance via 3D Gaussian Splatting**, Lin and Li, arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2405.06945)
 
 
-## Gaussian Surfel:
 
+## Gaussian Surfel:
 ## 2024:
 - **[SIGGRAPH '24]High-quality Surface Reconstruction using Gaussian Surfels**, Dai et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2404.17774) | [🌐 Project Page](https://turandai.github.io/projects/gaussian_surfels/) | [💻 Code](https://github.com/turandai/gaussian_surfels)
 
@@ -330,6 +341,7 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 - **Surfel-based RGB-D Reconstruction and
 SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](https://www.cs.cmu.edu/~kaess/pub/Yang19thesis_ms.pdf)
+
 
 ## 3D Generations:
 ## 2025:
@@ -391,6 +403,7 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 ## 2023:
 - **[CVPR' 24]Wonder3D: Single Image to 3D using Cross-Domain Diffusion**, Long et al., arXiv 2023 | [📄 Paper](https://arxiv.org/abs/2310.15008) | [🌐 Project Page](https://www.xxlong.site/Wonder3D/) | [💻 Code](https://github.com/xxlong0/Wonder3D) | [🎥 Demo](https://huggingface.co/spaces/flamehaze1115/Wonder3D-demo)
 
+
 ## Data
 - [uCO3D High resolution object dataset with more than 1000 categories](https://github.com/facebookresearch/uco3d)
 
@@ -398,14 +411,14 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 
 <br>
 
-## Courses
 
+## Courses
 - [MIT Inverse Rendering Lectures (Module 2)](https://www.scenerepresentations.org/courses/inverse-graphics-23/)
 
 <br>
 
-## Open Source Implementations
 
+## Open Source Implementations
 ### Unofficial Implementations
 
 |                                                                                             | Language       | License    |
