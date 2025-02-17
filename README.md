@@ -360,6 +360,8 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 
 - **DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT**, Qi et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2501.01428) | [🌐 Project Page](https://gpt4scene.github.io/) | [💻 Code](https://github.com/YvanYin/DrivingWorld)
 
+- **[3DV' 25]RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion**, Shriram et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2404.07199) | [🌐 Project Page](https://realmdreamer.github.io/) | [💻 Code](https://github.com/jaidevshriram/realmdreamer)
+
 - **InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models**, Lu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.03934) | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/infinicube/) | [💻 Code]()
 
 - **[AAAI' 25]SceneX: Procedural Controllable Large-scale Scene Generation**, Zhou et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.15698) | [🌐 Project Page](https://zhouzq1.github.io/SceneX/) | [💻 Code](https://github.com/zhouzq1/SceneX)
