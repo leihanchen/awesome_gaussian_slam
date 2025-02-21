@@ -274,6 +274,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Reconstruction:
 ## 2025:
+- **FLARE: Feed-forward Geometry, Appearance and Camera Estimation from Uncalibrated Sparse Views**, Zhang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.12138) | [🌐 Project Page](https://zhanghe3z.github.io/FLARE/) | [💻 Code](https://github.com/ant-research/FLARE) | [🎥 Demo](https://huggingface.co/AntResearch/FLARE)
+
 - **Building Rome with Convex Optimization**, Han and Yang, arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.04640) | [🌐 Project Page](https://computationalrobotics.seas.harvard.edu/XM/) | [💻 Code]()
 
 - **Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**, Yang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.13928) | [🌐 Project Page](https://fast3r-3d.github.io/) | [💻 Code](https://fast3r-3d.github.io/)
