@@ -98,6 +98,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **No Parameters, No Problem: 3D Gaussian Splatting without Camera Intrinsics and Extrinsics**, Shi et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.19800)
+
 - **Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting**, Qu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.18672) | [🌐 Project Page](https://quyans.github.io/Drag-Your-Gaussian/) | | [💻 Code](https://github.com/Quyans/Drag-Your-Gaussian)
 
 - **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**, He et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.11508)
@@ -252,6 +254,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Large Scale:
 ## 2025:
+- **GS-Cache: A GS-Cache Inference Framework for Large-scale Gaussian Splatting Models**, Tao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.14938)
+
 - **[ICLR 25]DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**, Bian et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.18084v1) | [🌐 Project Page](https://dynamic-city.github.io/)| [💻 Code](https://github.com/3DTopia/DynamicCity)
 
 - **OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**, Shen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.14235)
@@ -361,6 +365,10 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 
 ## 3D Generations:
 ## 2025:
+- **Dragen3D: Multiview Geometry Consistent 3D Gaussian Generation with Drag-Based Control**, Yan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.16475) | [💻 Code]() | [🌐 Project Page]()
+
+- **QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation**, Zhao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.05178) | [💻 Code](https://github.com/NVlabs/QLIP) | [🌐 Project Page](https://nvlabs.github.io/QLIP/)
+
 - **Towards Physical Understanding in Video Generation: A 3D Point Regularization Approach**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.03639v1) | [💻 Code](https://github.com/snap-research/PointVidGen) | [🌐 Project Page](https://snap-research.github.io/PointVidGen/)
 
 - **Fractal Generative Models**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.17437) | [💻 Code](https://github.com/LTH14/fractalgen)
@@ -381,6 +389,8 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 
 ## 2024:
 - **Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**, Yang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.21117) | [🌐 Project Page](https://freemty.github.io/project-prometheus/) | [💻 Code](https://github.com/XDimLab/Prometheus) | [🎥 Video](https://www.youtube.com/watch?v=N_L_ecSiIJA)
+
+- **PanoDreamer: 3D Panorama Synthesis from a Single Image**, Paliwal et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.04827) | [💻 Code](https://github.com/avinashpaliwal/PanoDreamer) | [🌐 Project Page](https://people.engr.tamu.edu/nimak/Papers/PanoDreamer/index.html) | [🎥 Video](https://www.youtube.com/watch?v=EyVfFCg4aF8) 
 
 - **[NeurIPS' 24]GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping**, Seo et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2405.17251) | [🌐 Project Page](https://genwarp-nvs.github.io/) | [💻 Code](https://github.com/sony/genwarp) | [🎥 Demo](https://huggingface.co/spaces/Sony/genwarp)
 
