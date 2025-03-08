@@ -371,6 +371,8 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 
 ## 3D Generations:
 ## 2025:
+- **Difix3D+: Improving 3D Reconstructions with Single-Step Diffusion Models**, Wu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.03639v1) | [💻 Code]() | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/difix3d/) | [🎥 Video](https://research.nvidia.com/labs/toronto-ai/difix3d/#demo_video)
+
 - **Towards Physical Understanding in Video Generation: A 3D Point Regularization Approach**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.03639v1) | [💻 Code](https://github.com/snap-research/PointVidGen) | [🌐 Project Page](https://snap-research.github.io/PointVidGen/)
 
 - **Fractal Generative Models**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.17437) | [💻 Code](https://github.com/LTH14/fractalgen)
