@@ -98,6 +98,11 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+<<<<<<< HEAD
+=======
+- **No Parameters, No Problem: 3D Gaussian Splatting without Camera Intrinsics and Extrinsics**, Shi et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.19800)
+
+>>>>>>> faa418840dfab672134c6b777904b46ac594cbdc
 - **Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting**, Qu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.18672) | [🌐 Project Page](https://quyans.github.io/Drag-Your-Gaussian/) | | [💻 Code](https://github.com/Quyans/Drag-Your-Gaussian)
 
 - **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**, He et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.11508)
@@ -252,6 +257,11 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Large Scale:
 ## 2025:
+<<<<<<< HEAD
+=======
+- **GS-Cache: A GS-Cache Inference Framework for Large-scale Gaussian Splatting Models**, Tao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.14938)
+
+>>>>>>> faa418840dfab672134c6b777904b46ac594cbdc
 - **[ICLR 25]DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**, Bian et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.18084v1) | [🌐 Project Page](https://dynamic-city.github.io/)| [💻 Code](https://github.com/3DTopia/DynamicCity)
 
 - **OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**, Shen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.14235)
@@ -307,7 +317,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **CoSurfGS:Collaborative 3D Surface Gaussian Splatting with Distributed Learning for Large Scene Reconstruction**, Gao et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.17612) | [🌐 Project Page](https://gyy456.github.io/CoSurfGS/) | [💻 Code](https://github.com/zju3dv/CoSurfGS)
 
-- **[ECCV' 24]latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction**, Wewer et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.16292) | [🌐 Project Page](https://hengyiwang.github.io/projects/spanner) | [💻 Code](https://github.com/HengyiWang/spann3r)
+- **[ECCV' 24]latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction**, Wewer et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2403.16292) | [🌐 Project Page](https://geometric-rl.mpi-inf.mpg.de/latentsplat/) | [💻 Code](https://github.com/Chrixtar/latentsplat)
 
 - **Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs**, Smart et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.13912) | [🌐 Project Page](https://splatt3r.active.vision/) | [💻 Code](https://github.com/btsmart/splatt3r)
 
@@ -381,6 +391,8 @@ SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](h
 
 ## 2024:
 - **Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**, Yang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.21117) | [🌐 Project Page](https://freemty.github.io/project-prometheus/) | [💻 Code](https://github.com/XDimLab/Prometheus) | [🎥 Video](https://www.youtube.com/watch?v=N_L_ecSiIJA)
+
+- **PanoDreamer: 3D Panorama Synthesis from a Single Image**, Paliwal et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.04827) | [💻 Code](https://github.com/avinashpaliwal/PanoDreamer) | [🌐 Project Page](https://people.engr.tamu.edu/nimak/Papers/PanoDreamer/index.html) | [🎥 Video](https://www.youtube.com/watch?v=EyVfFCg4aF8) 
 
 - **[NeurIPS' 24]GenWarp: Single Image to Novel Views with Semantic-Preserving Generative Warping**, Seo et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2405.17251) | [🌐 Project Page](https://genwarp-nvs.github.io/) | [💻 Code](https://github.com/sony/genwarp) | [🎥 Demo](https://huggingface.co/spaces/Sony/genwarp)
 
