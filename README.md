@@ -150,6 +150,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025
+- **[ICRA '25] OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**, Yang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.01646) | [🌐 Project Page](https://young-bit.github.io/opengs-github.github.io/) | [💻 Code](https://github.com/YOUNG-bit/open_semantic_slam) | [🎥 Video](https://www.youtube.com/watch?v=uNJ4vTpfGU0)
+
 - **RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**, Yu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.15633) | [🌐 Project Page](https://3dagentworld.github.io/opengs-slam/) | [💻 Code](https://github.com/3DAgentWorld/OpenGS-SLAM)
 
 - **DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.09111) 
@@ -357,12 +359,13 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 - **Real-time Scalable Dense Surfel Mapping**, Wang et al., arXiv 2019 | [📄 Paper](https://arxiv.org/abs/1909.04250) | [💻 Code](https://github.com/HKUST-Aerial-Robotics/DenseSurfelMapping)
 
-- **Surfel-based RGB-D Reconstruction and
-SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](https://www.cs.cmu.edu/~kaess/pub/Yang19thesis_ms.pdf)
+- **Surfel-based RGB-D Reconstruction and SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](https://www.cs.cmu.edu/~kaess/pub/Yang19thesis_ms.pdf)
 
 
 ## 3D Generations:
 ## 2025:
+- **[CVPR '25]CADDreamer: CAD object Generation from Single-view Images**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.20732) | [💻 Code](https://github.com/lidan233/CADDreamer) | [🌐 Project Page](https://lidan233.github.io/caddreamer/) | [🎥 Video](https://lidan233.github.io/caddreamer/static/videos/CADDreamer-Video.mp4)
+
 - **CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image**, Yao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.12894) | [💻 Code](https://github.com/NIRVANALAN/GaussianAnything) | [🌐 Project Page](https://sites.google.com/view/cast4) | [🎥 Video](https://www.youtube.com/watch?v=cloVLY6lWdI&feature=youtu.be)
 
 - **[CVPR '25]Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs**, Zhong et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.05082) | [💻 Code](https://github.com/zhongyingji/guidedvd-3dgs) | [🌐 Project Page](https://zhongyingji.github.io/guidevd-3dgs/)
