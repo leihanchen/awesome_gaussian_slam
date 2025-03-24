@@ -290,6 +290,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Reconstruction:
 ## 2025:
+- **[CVPR '25] BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting**, Lu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.12894) | [💻 Code](https://github.com/YOUR%20REPO%20HERE) | [🌐 Project Page](https://vulab-ai.github.io/BARD-GS/)
+
 - **CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image**, Yao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.12894) | [💻 Code](https://github.com/NIRVANALAN/GaussianAnything) | [🌐 Project Page](https://sites.google.com/view/cast4) | [🎥 Video](https://www.youtube.com/watch?v=cloVLY6lWdI&feature=youtu.be)
 
 - **[CVPR '25] MUSt3R: Multi-view Network for Stereo 3D Reconstruction**, Cabon et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2503.01661) | [🌐 Project Page]() | [💻 Code](https://github.com/naver/must3r)
@@ -321,7 +323,9 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs**, Smart et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.13912) | [🌐 Project Page](https://splatt3r.active.vision/) | [💻 Code](https://github.com/btsmart/splatt3r)
 
-- **[3DV' 25]] 3D Reconstruction with Spatial Memory**, Wang and Agapito, arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.16061) | [🌐 Project Page](https://splatt3r.active.vision/) | [💻 Code](https://github.com/btsmart/splatt3r)
+- **[3DV' 25] 3D Reconstruction with Spatial Memory**, Wang and Agapito, arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.16061) | [🌐 Project Page](https://splatt3r.active.vision/) | [💻 Code](https://github.com/btsmart/splatt3r)
+
+- **[CVPR' 25] CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner**, Li et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2405.14979) | [🌐 Project Page](https://craftsman3d.github.io/) | [💻 Code](https://github.com/wyysf-98/CraftsMan3D) | [🎥 Demo](https://huggingface.co/spaces/wyysf/CraftsMan3D) | [🎥 Video](https://www.youtube.com/watch?v=WhEs4tS4mGo)
 
 - **QGS: Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction**, Zhang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.16392) | [🌐 Project Page](https://quadraticgs.github.io/QGS/) | [💻 Code](https://github.com/QuadraticGS/QGS)
 
