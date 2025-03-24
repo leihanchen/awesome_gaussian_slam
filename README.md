@@ -150,6 +150,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025
+- **4D Gaussian Splatting SLAM**, Li et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2503.16710) | [🌐 Project Page]() | [💻 Code](https://github.com/yanyan-li/4DGS-SLAM) | [🎥 Video]()
+
 - **[ICRA '25] OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**, Yang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.01646) | [🌐 Project Page](https://young-bit.github.io/opengs-github.github.io/) | [💻 Code](https://github.com/YOUNG-bit/open_semantic_slam) | [🎥 Video](https://www.youtube.com/watch?v=uNJ4vTpfGU0)
 
 - **GigaSLAM: Large-Scale Monocular SLAM with Hierachical Gaussian Splats**, Deng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.08071) | [🌐 Project Page]() | [💻 Code](https://github.com/DengKaiCQ/GigaSLAM)
@@ -171,6 +173,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**, Wen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.05242) 
 
 ## 2024:
+- **[CVPR '25]MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors**, Murai et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.12392) | [🌐 Project Page](https://edexheim.github.io/mast3r-slam/) | [💻 Code](https://github.com/rmurai0610/MASt3R-SLAM) | [🎥 Video](https://www.youtube.com/watch?v=wozt71NBFTQ)
+
 - **HI-SLAM2 Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**, Zhang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2411.17982) | [🌐 Project Page](https://hi-slam2.github.io/) | [💻 Code](https://github.com/Willyzw/HI-SLAM2)
 
 - **DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment**, Kong et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.10722) | [🌐 Project Page](https://changjianjiang01.github.io/LI-GS/) | | [🎥 Video](https://www.youtube.com/watch?v=Mq3qZTTcN3E) | [💻 Code](https://github.com/kmk97/DGS-SLAM)
