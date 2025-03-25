@@ -98,6 +98,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **[CVPR '25]DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.18402) | [🌐 Project Page](https://dashgaussian.github.io/) | | [💻 Code]()
+
 - **Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting**, Qu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.18672) | [🌐 Project Page](https://quyans.github.io/Drag-Your-Gaussian/) | | [💻 Code](https://github.com/Quyans/Drag-Your-Gaussian)
 
 - **See In Detail: Enhancing Sparse-view 3D Gaussian Splatting with Local Depth and Semantic Regularization**, He et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.11508)
@@ -107,6 +109,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**, Kwak et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.03714) | [🌐 Project Page](https://kaist-viclab.github.io/MoDecGS-site/) | | [💻 Code]()
 
 ## 2024:
+- **[NeurIPS' 24]3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.16266) | [🌐 Project Page](https://xiliu8006.github.io/3DGS-Enhancer-project/) | | [💻 Code](https://github.com/xiliu8006/3DGS-Enhancer)
+
 - **MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.20522) | [🌐 Project Page]() | | [💻 Code](https://github.com/kaikai23/MaskGaussian)
 
 - **Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields**, Lu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.13547) | [🌐 Project Page](https://ivl.cs.brown.edu/research/turbo-gs) | | [💻 Code](https://github.com/inspirelt/Turbo-GS)
