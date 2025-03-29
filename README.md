@@ -388,6 +388,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 - **FlexWorld: Progressively Expanding 3D Scenes for Flexiable-View Synthesis**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.13265) | [💻 Code](https://github.com/ML-GSAI/FlexWorld) | [🌐 Project Page](https://ml-gsai.github.io/FlexWorld/)
 
+- **TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.06608) | [💻 Code](https://github.com/VAST-AI-Research/TripoSG) | [🌐 Project Page](https://yg256li.github.io/TripoSG-Page/) | [🎥 Video](https://lidan233.github.io/caddreamer/static/videos/CADDreamer-Video.mp4) | [🤗 Demo](https://huggingface.co/spaces/VAST-AI/TripoSG)
+
 - **[CVPR '25]CADDreamer: CAD object Generation from Single-view Images**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.20732) | [💻 Code](https://github.com/lidan233/CADDreamer) | [🌐 Project Page](https://lidan233.github.io/caddreamer/) | [🎥 Video](https://lidan233.github.io/caddreamer/static/videos/CADDreamer-Video.mp4)
 
 - **CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image**, Yao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.12894) | [💻 Code](https://github.com/NIRVANALAN/GaussianAnything) | [🌐 Project Page](https://sites.google.com/view/cast4) | [🎥 Video](https://www.youtube.com/watch?v=cloVLY6lWdI&feature=youtu.be)
