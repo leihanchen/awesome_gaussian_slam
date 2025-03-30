@@ -98,6 +98,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **[CVPR '25]BG-Triangle: Bézier Gaussian Triangle for 3D Vectorization and Rendering**, Wu et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2503.13961) | [🌐 Project Page](https://wuminye.github.io/projects/BGTriangle/) | | [💻 Code](https://github.com/wuminye/bg-triangle)
+
 - **[CVPR '25]DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.18402) | [🌐 Project Page](https://dashgaussian.github.io/) | | [💻 Code]()
 
 - **Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting**, Qu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.18672) | [🌐 Project Page](https://quyans.github.io/Drag-Your-Gaussian/) | | [💻 Code](https://github.com/Quyans/Drag-Your-Gaussian)
