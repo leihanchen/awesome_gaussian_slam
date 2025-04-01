@@ -156,6 +156,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025
+- **[ICRA '25]HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**, Gong et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.21778) | [🌐 Project Page](https://zorangong.github.io/HS-SLAM/) | [💻 Code]() | [🎥 Video]()
+
 - **4D Gaussian Splatting SLAM**, Li et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2503.16710) | [🌐 Project Page]() | [💻 Code](https://github.com/yanyan-li/4DGS-SLAM) | [🎥 Video]()
 
 - **[ICRA '25] OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding**, Yang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.01646) | [🌐 Project Page](https://young-bit.github.io/opengs-github.github.io/) | [💻 Code](https://github.com/YOUNG-bit/open_semantic_slam) | [🎥 Video](https://www.youtube.com/watch?v=uNJ4vTpfGU0)
