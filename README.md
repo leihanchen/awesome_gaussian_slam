@@ -317,6 +317,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Reconstruction:
 ## 2025:
+- **[CVPR '25] HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation**, Liang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.06210) | [🌐 Project Page](https://pfnet-research.github.io/himor/) | | [💻 Code]()
+
 - **[CVPR '25] PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**, Gao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.19913) | [🌐 Project Page](https://partrm.c7w.tech/) | | [💻 Code](https://github.com/GasaiYU/PartRM)
 
 - **Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**, Sucar et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.16318) | [🌐 Project Page](https://www.robots.ox.ac.uk/~vgg/research/dynamic-point-maps/) | | [💻 Code]()
@@ -414,6 +416,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 ## 3D Generations:
 ## 2025:
 - **[CVPR '25]VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**, Wang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.01956) | [💻 Code](https://github.com/hanyang-21/VideoScene) | [🌐 Project Page](https://hanyang-21.github.io/VideoScene/)
+
+- **WorldScore: A Unified Evaluation Benchmark for World Generation**, Duan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.00983) | [💻 Code](https://github.com/haoyi-duan/WorldScore) | [🌐 Project Page](https://haoyi-duan.github.io/WorldScore/) | [🤗 Leaderboard](https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard)
 
 - **WonderTurbo: Generating Interactive 3D World in 0.72 Seconds**, Ni et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2504.02261) | [💻 Code](https://github.com/GigaAI-research/WonderTurbo) | [🌐 Project Page](https://wonderturbo.github.io/)
 
