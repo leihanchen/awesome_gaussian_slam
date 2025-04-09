@@ -267,7 +267,9 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Poses:
 ## 2025:
-- **CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**, Ma et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.08982)
+- **Targetless LiDAR-Camera Calibration with Anchored 3D Gaussians**, Jung et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.08982) | [🌐 Project Page](https://zang09.github.io/tlc-calib-site/) | [💻 Code]()
+
+- **CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**, Ma et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.04597v1) 
 
 ## 2024:
 - **[ECCV '24]GGRt: Towards Generalizable 3D Gaussians without Pose Priors in Real-Time**, Li et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.10147) | [🌐 Project Page](https://3d-aigc.github.io/GGRt/)
@@ -277,6 +279,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Large Scale:
 ## 2025:
+- **CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction**, Gao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.23044) | [🌐 Project Page](https://lifuguan.github.io/CityGS-X/)| [💻 Code](https://github.com/gyy456/CityGS-X)
+
 - **[ICLR 25]DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**, Bian et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.18084v1) | [🌐 Project Page](https://dynamic-city.github.io/)| [💻 Code](https://github.com/3DTopia/DynamicCity)
 
 - **OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving**, Shen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.14235)
@@ -311,6 +315,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Reconstruction:
 ## 2025:
+- **[CVPR '25] PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model**, Gao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.19913) | [🌐 Project Page](https://partrm.c7w.tech/) | | [💻 Code](https://github.com/GasaiYU/PartRM)
+
 - **Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction**, Sucar et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.16318) | [🌐 Project Page](https://www.robots.ox.ac.uk/~vgg/research/dynamic-point-maps/) | | [💻 Code]()
 
 - **GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**, Zhou et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.05161v1) | [🌐 Project Page]() | | [💻 Code]()
@@ -405,6 +411,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 ## 3D Generations:
 ## 2025:
+- **WonderTurbo: Generating Interactive 3D World in 0.72 Seconds**, Ni et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2504.02261) | [💻 Code](https://github.com/GigaAI-research/WonderTurbo) | [🌐 Project Page](https://wonderturbo.github.io/)
+
 - **DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning**, Zhao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.15265) | [💻 Code](https://github.com/zhaorw02/DeepMesh) | [🌐 Project Page](https://zhaorw02.github.io/DeepMesh/) | [🎥 Video](https://www.youtube.com/watch?v=6grL7bSbQ2w)
 
 - **Controllable 3D Outdoor Scene Generation via Scene Graphs**, Liu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.07152) | [💻 Code](https://github.com/yuhengliu02/control-3d-scene) | [🌐 Project Page](https://yuheng.ink/project-page/control-3d-scene/)
