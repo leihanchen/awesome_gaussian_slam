@@ -165,6 +165,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025
+- **[CVPR '25]WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**, Zheng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.03886) | [🌐 Project Page](https://wildgs-slam.github.io/) | [💻 Code](https://github.com/GradientSpaces/WildGS-SLAM) | [🎥 Video](https://www.youtube.com/watch?v=xXuolzFvddQ&t=11s)
+
 - **[ICRA '25]HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**, Gong et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.21778) | [🌐 Project Page](https://zorangong.github.io/HS-SLAM/) | [💻 Code]() | [🎥 Video]()
 
 - **4D Gaussian Splatting SLAM**, Li et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2503.16710) | [🌐 Project Page]() | [💻 Code](https://github.com/yanyan-li/4DGS-SLAM) | [🎥 Video]()
@@ -411,6 +413,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 ## 3D Generations:
 ## 2025:
+- **[CVPR '25]VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**, Wang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.01956) | [💻 Code](https://github.com/hanyang-21/VideoScene) | [🌐 Project Page](https://hanyang-21.github.io/VideoScene/)
+
 - **WonderTurbo: Generating Interactive 3D World in 0.72 Seconds**, Ni et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2504.02261) | [💻 Code](https://github.com/GigaAI-research/WonderTurbo) | [🌐 Project Page](https://wonderturbo.github.io/)
 
 - **DeepMesh: Auto-Regressive Artist-mesh Creation with Reinforcement Learning**, Zhao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.15265) | [💻 Code](https://github.com/zhaorw02/DeepMesh) | [🌐 Project Page](https://zhaorw02.github.io/DeepMesh/) | [🎥 Video](https://www.youtube.com/watch?v=6grL7bSbQ2w)
