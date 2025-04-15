@@ -531,6 +531,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 
 ## Data
+- [Digital Twin Catalog for object reconstruction](https://www.projectaria.com/datasets/dtc/)
+
 - [uCO3D High resolution object dataset with more than 1000 categories](https://github.com/facebookresearch/uco3d)
 
 - [NERDS 360 Multi-View dataset for Outdoor Scenes](https://zubair-irshad.github.io/projects/neo360.html)
