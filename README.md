@@ -283,6 +283,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Large Scale:
 ## 2025:
+- **BlockGaussian: Efficient Large-Scale Scene Novel View Synthesis via Adaptive Block-Based Gaussian Splatting**, Wu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.09048) | [🌐 Project Page](https://sunshinewyc.github.io/BlockGaussian/)| [💻 Code](https://github.com/SunshineWYC/BlockGaussian)
+
 - **CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction**, Gao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.23044) | [🌐 Project Page](https://lifuguan.github.io/CityGS-X/)| [💻 Code](https://github.com/gyy456/CityGS-X)
 
 - **[ICLR 25]DynamicCity: Large-Scale LiDAR Generation from Dynamic Scenes**, Bian et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.18084v1) | [🌐 Project Page](https://dynamic-city.github.io/)| [💻 Code](https://github.com/3DTopia/DynamicCity)
@@ -421,6 +423,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 ## 3D Generations:
 ## 2025:
+- **[CVPR '25] ERUPT: Efficient Rendering with Unposed Patch Transformer**, Shugaev et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.24374) | [💻 Code]() | [🌐 Project Page]()
+
 - **3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**, Wei et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.11218) | [💻 Code](https://github.com/HCPLab-SYSU/3DAffordSplat) | [🤗 Data]()
 
 - **[CVPR '25] GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**, Ren et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.03751) | [💻 Code]() | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/GEN3C/)
