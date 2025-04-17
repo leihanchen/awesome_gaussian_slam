@@ -165,9 +165,11 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025
-- **[CVPR '25]WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**, Zheng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.03886) | [🌐 Project Page](https://wildgs-slam.github.io/) | [💻 Code](https://github.com/GradientSpaces/WildGS-SLAM) | [🎥 Video](https://www.youtube.com/watch?v=xXuolzFvddQ&t=11s)
+- **[CVPR '25] St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**, Feng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.13152) | [🌐 Project Page](https://st4rtrack.github.io/) | [💻 Code]()
 
-- **[ICRA '25]HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**, Gong et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.21778) | [🌐 Project Page](https://zorangong.github.io/HS-SLAM/) | [💻 Code]() | [🎥 Video]()
+- **[CVPR '25] WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**, Zheng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.03886) | [🌐 Project Page](https://wildgs-slam.github.io/) | [💻 Code](https://github.com/GradientSpaces/WildGS-SLAM) | [🎥 Video](https://www.youtube.com/watch?v=xXuolzFvddQ&t=11s)
+
+- **[ICRA '25] HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**, Gong et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.21778) | [🌐 Project Page](https://zorangong.github.io/HS-SLAM/) | [💻 Code]() | [🎥 Video]()
 
 - **4D Gaussian Splatting SLAM**, Li et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2503.16710) | [🌐 Project Page]() | [💻 Code](https://github.com/yanyan-li/4DGS-SLAM) | [🎥 Video]()
 
@@ -317,6 +319,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Reconstruction:
 ## 2025:
+- **[RSS '25]Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**, Yang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.13175) | [🌐 Project Page](https://yangsizhe.github.io/robosplat/) | | [💻 Code](https://github.com/OpenRobotLab/robosplat)
+
 - **[CVPR '25] V2V3D: View-to-View Denoised 3D Reconstruction for Light-Field Microscopy**, Zhao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.07853) | [🌐 Project Page](https://joey1998hub.github.io/V2V3D/) | | [💻 Code]()
 
 - **[CVPR '25] HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation**, Liang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.06210) | [🌐 Project Page](https://pfnet-research.github.io/himor/) | | [💻 Code]()
@@ -417,6 +421,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 ## 3D Generations:
 ## 2025:
+- **3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**, Wei et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.11218) | [💻 Code](https://github.com/HCPLab-SYSU/3DAffordSplat) | [🤗 Data]()
+
 - **[CVPR '25] GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**, Ren et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.03751) | [💻 Code]() | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/GEN3C/)
 
 - **[CVPR '25] PhysGen3D: Crafting a Miniature Interactive World from a Single Image**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.20746) | [💻 Code](https://github.com/by-luckk/PhysGen3D) | [🌐 Project Page](https://by-luckk.github.io/PhysGen3D/)
