@@ -101,6 +101,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**, Zhuang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.15281) | [🌐 Project Page](https://styleme3d.github.io/) | | [💻 Code](https://github.com/AIGCResearch/styleme3d)
+
 - **ADGaussian: Generalizable Gaussian Splatting for Autonomous Driving with Multi-modal Inputs**, Song et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.00437) | [🌐 Project Page](https://maggiesong7.github.io/research/ADGaussian/) | | [💻 Code]()
 
 - **[ICLR '25]CAT-3DGS: A Context-Adaptive Triplane Approach to Rate-Distortion-Optimized 3DGS Compression**, Zhan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.00357) | [🌐 Project Page]() | | [💻 Code]()
@@ -421,6 +423,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 ## 3D Generations:
 ## 2025:
+- **[CVPR '25] ERUPT: Efficient Rendering with Unposed Patch Transformer**, Shugaev et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.24374) | [💻 Code]() | [🌐 Project Page]()
+
 - **3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**, Wei et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.11218) | [💻 Code](https://github.com/HCPLab-SYSU/3DAffordSplat) | [🤗 Data]()
 
 - **[CVPR '25] GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**, Ren et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.03751) | [💻 Code]() | [🌐 Project Page](https://research.nvidia.com/labs/toronto-ai/GEN3C/)
