@@ -167,6 +167,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025
+- **[CVPR '25] SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**, Liu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2412.09401) | [💻 Code](https://github.com/PKU-VCL-3DV/SLAM3R) | [🤗 Demo]()
+
 - **[CVPR '25] St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**, Feng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.13152) | [🌐 Project Page](https://st4rtrack.github.io/) | [💻 Code]()
 
 - **[CVPR '25] WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments**, Zheng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.03886) | [🌐 Project Page](https://wildgs-slam.github.io/) | [💻 Code](https://github.com/GradientSpaces/WildGS-SLAM) | [🎥 Video](https://www.youtube.com/watch?v=xXuolzFvddQ&t=11s)
