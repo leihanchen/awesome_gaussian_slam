@@ -325,6 +325,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Reconstruction:
 ## 2025:
+- **PRISM: A Unified Framework for Photorealistic Reconstruction and Intrinsic Scene Modeling**, Dirik et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.14219) | [🌐 Project Page]() | | [💻 Code]()
+
 - **[RSS '25]Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**, Yang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.13175) | [🌐 Project Page](https://yangsizhe.github.io/robosplat/) | | [💻 Code](https://github.com/OpenRobotLab/robosplat)
 
 - **[CVPR '25] V2V3D: View-to-View Denoised 3D Reconstruction for Light-Field Microscopy**, Zhao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.07853) | [🌐 Project Page](https://joey1998hub.github.io/V2V3D/) | | [💻 Code]()
