@@ -77,6 +77,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 
 ## Survey:
+- **3D Scene Generation: A Survey**, Wen et al., arXiv 2025  | [📄 Paper](https://www.arxiv.org/abs/2505.05474) | [🌐 Project Page](https://github.com/hzxie/Awesome-3D-Scene-Generation)
+
 - **The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey**, Tu et al., arXiv 2025  | [📄 Paper](https://arxiv.org/abs/2502.10498) | [🌐 Project Page](https://github.com/LMD0311/Awesome-World-Model)
 
 - **Embodied Intelligence for 3D Understanding: A Survey on 3D Scene Question Answering**, Li et al., arXiv 2025  | [📄 Paper](https://arxiv.org/abs/2502.00342)
@@ -101,6 +103,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **[CVPRW '25]SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting**, Jena et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.02175) | [🌐 Project Page](https://shubhendu-jena.github.io/SparSplat/) | | [💻 Code](https://github.com/Shubhendu-Jena/SparSplat)
+
+- **[CVPR '25]Steepest Descent Density Control for Compact 3D Gaussian Splatting**, Wang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.05587) | [🌐 Project Page](https://vita-group.github.io/SteepGS/) | | [💻 Code]()
+
 - **[ICML '25]HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder**, Yang et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.01938) | [🌐 Project Page]() | | [💻 Code](https://github.com/Qi-Yangsjtu/HybridGS)
 
 - **[ICLR '25]PCGS: Progressive Compression of 3D Gaussian Splatting**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.08511) | [🌐 Project Page](https://yihangchen-ee.github.io/project_pcgs/) | | [💻 Code](https://github.com/YihangChen-ee/PCGS)
@@ -135,6 +141,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **LeanGaussian: Breaking Pixel or Point Cloud Correspondence in Modeling 3D Gaussians**, Wu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2404.16323) | [🌐 Project Page](https://kenkunliu.github.io/DIG3D/) | | [💻 Code](https://github.com/jwubz123/DIG3D)
 
 - **[NeurIPS' 24]DiffGS: Functional Gaussian Splatting Diffusion**, Zhou et al., arXiv 2024 | [📄 Paper](https://arxiv.org/html/2410.19657v1) | [🌐 Project Page](https://junshengzhou.github.io/DiffGS/) | | [💻 Code](https://github.com/weiqi-zhang/DiffGS)
+
+- **[ECCV' 24]MVSGaussian: Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2405.12218) | [🌐 Project Page](https://mvsgaussian.github.io/) | | [💻 Code](https://github.com/TQTQliu/MVSGaussian) | [🎥 Video](https://www.youtube.com/watch?v=4TxMQ9RnHMA)
 
 - **No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**, Ye et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.24207) | [🌐 Project Page](https://noposplat.github.io/) | [💻 Code](https://github.com/cvg/NoPoSplat)
 
@@ -171,6 +179,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025
+- **[ICRA '25]  Hier-SLAM: Semantic Gaussian Splatting SLAM with Hierarchical Categorical Representation**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2409.12518) | [💻 Code](https://github.com/LeeBY68/Hier-SLAM) | [🎥 Video](https://www.youtube.com/watch?v=Lp0QPMDTTHk)
+
 - **GauS-SLAM: Dense RGB-D SLAM with Gaussian Surfels**, Su et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.01934) | [💻 Code](https://github.com/gaus-slam/gaus-slam) | [🌐 Project Page](https://gaus-slam.github.io/)
 
 - **[CVPR '25] SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**, Liu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2412.09401) | [💻 Code](https://github.com/PKU-VCL-3DV/SLAM3R) | [🤗 Demo]()
@@ -293,6 +303,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Large Scale:
 ## 2025:
+- **Large-Scale Gaussian Splatting SLAM**, Xin et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.09915) | [🌐 Project Page](https://lsg-slam.github.io/)| [💻 Code]()
+
 - **BlockGaussian: Efficient Large-Scale Scene Novel View Synthesis via Adaptive Block-Based Gaussian Splatting**, Wu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.09048) | [🌐 Project Page](https://sunshinewyc.github.io/BlockGaussian/)| [💻 Code](https://github.com/SunshineWYC/BlockGaussian)
 
 - **CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction**, Gao et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.23044) | [🌐 Project Page](https://lifuguan.github.io/CityGS-X/)| [💻 Code](https://github.com/gyy456/CityGS-X)
@@ -332,9 +344,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Reconstruction:
 ## 2025:
-- **GUAVA: Generalizable Upper Body 3D Gaussian Avatar**, Zhang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.03351v1) | [🌐 Project Page](https://eastbeanzhang.github.io/GUAVA/) | [💻 Code]()
-
-- **[CVPR' 25] MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.20861) | [🌐 Project Page]() | [💻 Code](https://github.com/QINGQINGLE/MESC-3D)
+- **[CVPR' 25] DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**, Zhao et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.05473) | [🌐 Project Page](https://qitaozhao.github.io/DiffusionSfM) | [💻 Code](https://github.com/QitaoZhao/DiffusionSfM) | [🤗 Demo](https://huggingface.co/spaces/qitaoz/DiffusionSfM)
 
 - **[ICLR' 25] MoDGS: Dynamic Gaussian Splatting from Casually-captured Monocular Videos with Depth Priors**, Liu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2406.00434) | [🌐 Project Page](https://modgs.github.io/) | [💻 Code](https://github.com/MobiusLqm/MoDGS) | [🎥 Video](https://www.youtube.com/watch?si=IDZ6v6hLszZYFFoi&v=oBN3p716c_k&feature=youtu.be)
 
@@ -444,6 +454,10 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 ## 3D Generations:
 ## 2025:
+- **Bolt3D: Generating 3D Scenes in Seconds**, Szymanowicz et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.14445) | [💻 Code]() | [🌐 Project Page](https://szymanowiczs.github.io/bolt3d)
+
+- **Scenethesis: A Language and Vision Agentic Framework for 3D Scene Generation**, Ling et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.02836) | [💻 Code]() | [🌐 Project Page](https://research.nvidia.com/labs/dir/scenethesis/)
+
 - **[ICLR '25] 3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting**, Zhang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2405.18424) | [💻 Code](https://github.com/zqh0253/3DitScene) | [🌐 Project Page](https://zqh0253.github.io/3DitScene/) | [🤗 Demo](https://huggingface.co/spaces/qihang/3Dit-Scene)
 
 - **[CVPR '25] ERUPT: Efficient Rendering with Unposed Patch Transformer**, Shugaev et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.24374) | [💻 Code]() | [🌐 Project Page]()
