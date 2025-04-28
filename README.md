@@ -101,6 +101,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **[ICML '25]HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder**, Yang et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.01938) | [🌐 Project Page]() | | [💻 Code](https://github.com/Qi-Yangsjtu/HybridGS)
+
+- **[ICLR '25]PCGS: Progressive Compression of 3D Gaussian Splatting**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.08511) | [🌐 Project Page](https://yihangchen-ee.github.io/project_pcgs/) | | [💻 Code](https://github.com/YihangChen-ee/PCGS)
+
 - **StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**, Zhuang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.15281) | [🌐 Project Page](https://styleme3d.github.io/) | | [💻 Code](https://github.com/AIGCResearch/styleme3d)
 
 - **ADGaussian: Generalizable Gaussian Splatting for Autonomous Driving with Multi-modal Inputs**, Song et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.00437) | [🌐 Project Page](https://maggiesong7.github.io/research/ADGaussian/) | | [💻 Code]()
@@ -167,6 +171,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025
+- **GauS-SLAM: Dense RGB-D SLAM with Gaussian Surfels**, Su et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.01934) | [💻 Code](https://github.com/gaus-slam/gaus-slam) | [🌐 Project Page](https://gaus-slam.github.io/)
+
 - **[CVPR '25] SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**, Liu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2412.09401) | [💻 Code](https://github.com/PKU-VCL-3DV/SLAM3R) | [🤗 Demo]()
 
 - **[CVPR '25] St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World**, Feng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.13152) | [🌐 Project Page](https://st4rtrack.github.io/) | [💻 Code]()
@@ -309,6 +315,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **GigaGS: Scaling up Planar-Based 3D Gaussians for Large Scene Surface Reconstruction**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2409.06685) | [💻 Code (Not Ready)](https://github.com/Open3DVLab/GigaGS)
 
 - **[SIGGRAPH '24] A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets**, Kerbl et al., arXiv 2024 | [📄 Paper (Low Resolution)](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/hierarchical-3d-gaussians_low.pdf) | [📄 Paper (High Resolution)](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/hierarchical-3d-gaussians_high.pdf) | [🌐 Project Page](https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/)
+
 - **Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning**, Suzuki et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.11460) | [💻 Code](https://github.com/DensoITLab/Fed3DGS)
 
 - **Creating Seamless 3D Maps Using Radiance Fields**, Sathyan et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2403.11364.pdf)
@@ -320,12 +327,20 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes**, Wu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2404.04026.pdf)
 
 - **On Scaling Up 3D Gaussian Splatting Training**, Zhao et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.18533) | [🌐 Project Page](https://daohanlu.github.io/scaling-up-3dgs/) | [💻 Code](https://github.com/nyu-systems/Grendel-GS)
-  <br>
+<br>
 
 
 ## 3D Reconstruction:
 ## 2025:
-- **PRISM: A Unified Framework for Photorealistic Reconstruction and Intrinsic Scene Modeling**, Dirik et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.14219) | [🌐 Project Page]() | | [💻 Code]()
+- **GUAVA: Generalizable Upper Body 3D Gaussian Avatar**, Zhang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.03351v1) | [🌐 Project Page](https://eastbeanzhang.github.io/GUAVA/) | [💻 Code]()
+
+- **[CVPR' 25] MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2502.20861) | [🌐 Project Page]() | [💻 Code](https://github.com/QINGQINGLE/MESC-3D)
+
+- **[ICLR' 25] MoDGS: Dynamic Gaussian Splatting from Casually-captured Monocular Videos with Depth Priors**, Liu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2406.00434) | [🌐 Project Page](https://modgs.github.io/) | [💻 Code](https://github.com/MobiusLqm/MoDGS) | [🎥 Video](https://www.youtube.com/watch?si=IDZ6v6hLszZYFFoi&v=oBN3p716c_k&feature=youtu.be)
+
+- **CasualHDRSplat: Robust High Dynamic Range 3D Gaussian Splatting from Casually Captured Videos**, Gong et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.17728) | [🌐 Project Page](https://lingzhezhao.github.io/CasualHDRSplat/) | [💻 Code](https://github.com/WU-CVGL/CasualHDRSplat)
+
+- **PRISM: A Unified Framework for Photorealistic Reconstruction and Intrinsic Scene Modeling**, Dirik et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.14219) | [🌐 Project Page]() | [💻 Code]()
 
 - **[RSS '25]Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation**, Yang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.13175) | [🌐 Project Page](https://yangsizhe.github.io/robosplat/) | | [💻 Code](https://github.com/OpenRobotLab/robosplat)
 
@@ -429,6 +444,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 
 ## 3D Generations:
 ## 2025:
+- **[ICLR '25] 3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting**, Zhang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2405.18424) | [💻 Code](https://github.com/zqh0253/3DitScene) | [🌐 Project Page](https://zqh0253.github.io/3DitScene/) | [🤗 Demo](https://huggingface.co/spaces/qihang/3Dit-Scene)
+
 - **[CVPR '25] ERUPT: Efficient Rendering with Unposed Patch Transformer**, Shugaev et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.24374) | [💻 Code]() | [🌐 Project Page]()
 
 - **3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians**, Wei et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.11218) | [💻 Code](https://github.com/HCPLab-SYSU/3DAffordSplat) | [🤗 Data]()
@@ -440,8 +457,6 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 - **Hi3DGen: High-fidelity 3D Geometry Generation from Images via Normal Bridging**, Ye et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.22236) | [💻 Code](https://github.com/Stable-X/Hi3DGen) | [🌐 Project Page](https://stable-x.github.io/Hi3DGen/) | [🤗 Demo](https://huggingface.co/spaces/Stable-X/Hi3DGen)
 
 - **[CVPR '25] VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**, Wang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.01956) | [💻 Code](https://github.com/hanyang-21/VideoScene) | [🌐 Project Page](https://hanyang-21.github.io/VideoScene/)
-
-- **WorldScore: A Unified Evaluation Benchmark for World Generation**, Duan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.00983) | [💻 Code](https://github.com/haoyi-duan/WorldScore) | [🌐 Project Page](https://haoyi-duan.github.io/WorldScore/) | [🤗 Leaderboard](https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard)
 
 - **WorldScore: A Unified Evaluation Benchmark for World Generation**, Duan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.00983) | [💻 Code](https://github.com/haoyi-duan/WorldScore) | [🌐 Project Page](https://haoyi-duan.github.io/WorldScore/) | [🤗 Leaderboard](https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard)
 
@@ -488,6 +503,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 - **[NVIDIA]Cosmos World Foundation Model Platform for Physical AI**, Agarwal et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.03575) | [🌐 Project Page](https://research.nvidia.com/labs/dir/cosmos1/) | [💻 Code](https://github.com/NVIDIA/Cosmos) | [🎥 Video](https://www.youtube.com/watch?v=9Uch931cDx8) | [🤗 Demo](https://huggingface.co/collections/nvidia/cosmos-6751e884dc10e013a0a0d8e6)
 
 ## 2024:
+- **[CVPR '25] MultiGO: Towards Multi-level Geometry Learning for Monocular 3D Textured Human Reconstruction**, Zhang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2412.03103) | [💻 Code]() | [🌐 Project Page](https://multigohuman.github.io/)
+
 - **[CVPR '25]MIDI: Multi-Instance Diffusion for Single Image to 3D Scene Generation**, Huang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.03558) | [💻 Code](https://github.com/VAST-AI-Research/MIDI-3D) | [🌐 Project Page](https://huanngzh.github.io/MIDI-Page/) | [🤗 Demo](https://huggingface.co/spaces/VAST-AI/MIDI-3D)
 
 - **Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation**, Yang et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.21117) | [🌐 Project Page](https://freemty.github.io/project-prometheus/) | [💻 Code](https://github.com/XDimLab/Prometheus) | [🎥 Video](https://www.youtube.com/watch?v=N_L_ecSiIJA)
@@ -503,6 +520,8 @@ Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://
 - **[CVPR '25]Generative Gaussian Splatting for Unbounded 3D City Generation**, Xie et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2406.06526) | [🌐 Project Page](https://www.infinitescript.com/project/gaussian-city/) | [💻 Code](https://github.com/hzxie/GaussianCity) | [🤗 Demo](https://huggingface.co/spaces/hzxie/gaussian-city) | [🎥Video](https://www.youtube.com/watch?v=anDwIXlfjUA)
 
 - **[ECCV '24]SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**, Mihajlovic et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2409.11211) | [🌐 Project Page](https://markomih.github.io/SplatFields/) | [💻 Code](https://github.com/markomih/SplatFields)
+
+- **[ECCV '24]Pyramid Diffusion for Fine 3D Large Scene Generation**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2311.12085) | [🌐 Project Page](https://yuheng.ink/project-page/pyramid-discrete-diffusion/) | [💻 Code](https://github.com/yuhengliu02/pyramid-discrete-diffusion) | [🎥 Video](https://www.youtube.com/watch?v=9EmUq4cnyGM) 
 
 - **LaRa: Efficient Large-Baseline Radiance Fields**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2407.04699) | [🌐 Project Page](https://apchenstu.github.io/LaRa/) | [💻 Code](https://github.com/autonomousvision/LaRa)
 
