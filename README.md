@@ -178,6 +178,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **[CVPR '24]COLMAP-Free 3D Gaussian Splatting**, Fu et al., arXiv 2023 | [📄 Paper](https://arxiv.org/abs/2312.07504) | [🌐 Project Page](https://oasisyang.github.io/colmap-free-3dgs/) | [💻 Code](https://github.com/NVlabs/CF-3DGS) | [🎥 Video](https://www.youtube.com/watch?v=mGeVQS4ExK4)
 
+- **[SIGGRAPH '24]High-quality Surface Reconstruction using Gaussian Surfels**, Dai et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2404.17774) | [🌐 Project Page](https://turandai.github.io/projects/gaussian_surfels/) | [💻 Code](https://github.com/turandai/gaussian_surfels)
+
+- **[SIGGRAPH '24]2D Gaussian Splatting for Geometrically Accurate Radiance Fields**, Huang et al., SIGGRAPH 2024 | [📄 Paper](https://arxiv.org/pdf/2402.03246.pdf) | [🌐 Project Page](https://surfsplatting.github.io/) | [💻 Code](https://github.com/hbb1/2d-gaussian-splatting)
+
 
 ## Gaussian SLAM:
 ## 2025
@@ -307,6 +311,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Large Scale:
 ## 2025:
+- **CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians**, Liu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.21041v1)
+
 - **Large-Scale Gaussian Splatting SLAM**, Xin et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.09915) | [🌐 Project Page](https://lsg-slam.github.io/)| [💻 Code]()
 
 - **BlockGaussian: Efficient Large-Scale Scene Novel View Synthesis via Adaptive Block-Based Gaussian Splatting**, Wu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2504.09048) | [🌐 Project Page](https://sunshinewyc.github.io/BlockGaussian/)| [💻 Code](https://github.com/SunshineWYC/BlockGaussian)
@@ -348,6 +354,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Reconstruction:
 ## 2025:
+- **[CVPR' 25] Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting**, Yan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.16979) | [💻 Code](https://github.com/yjb6/IGS) | [🤗 Dataset](https://huggingface.co/datasets/yjb6/IGS_data)
+
 - **[CVPR' 25] DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**, Zhao et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.05473) | [🌐 Project Page](https://qitaozhao.github.io/DiffusionSfM) | [💻 Code](https://github.com/QitaoZhao/DiffusionSfM) | [🤗 Demo](https://huggingface.co/spaces/qitaoz/DiffusionSfM)
 
 - **[ICLR' 25] MoDGS: Dynamic Gaussian Splatting from Casually-captured Monocular Videos with Depth Priors**, Liu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2406.00434) | [🌐 Project Page](https://modgs.github.io/) | [💻 Code](https://github.com/MobiusLqm/MoDGS) | [🎥 Video](https://www.youtube.com/watch?si=IDZ6v6hLszZYFFoi&v=oBN3p716c_k&feature=youtu.be)
@@ -433,31 +441,12 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **Direct Learning of Mesh and Appearance via 3D Gaussian Splatting**, Lin and Li, arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2405.06945)
 
-
-
-## Gaussian Surfel:
-## 2024:
-- **[SIGGRAPH '24]High-quality Surface Reconstruction using Gaussian Surfels**, Dai et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2404.17774) | [🌐 Project Page](https://turandai.github.io/projects/gaussian_surfels/) | [💻 Code](https://github.com/turandai/gaussian_surfels)
-
-- **[SIGGRAPH '24]2D Gaussian Splatting for Geometrically Accurate Radiance Fields**, Huang et al., SIGGRAPH 2024 | [📄 Paper](https://arxiv.org/pdf/2402.03246.pdf) | [🌐 Project Page](https://surfsplatting.github.io/) | [💻 Code](https://github.com/hbb1/2d-gaussian-splatting)
-
-## 2023:
-- **[CVPR '23]SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic
-Reconstruction of Indoor Scenes**, Gao et al., CVPR 2023 | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_SurfelNeRF_Neural_Surfel_Radiance_Fields_for_Online_Photorealistic_Reconstruction_of_CVPR_2023_paper.pdf) | [🌐 Project Page](https://gymat.github.io/SurfelNeRF-web/) | [💻 Code](https://github.com/Gymat/SurfelNeRF/tree/unofficial)
-
-## Theory:
-- **Surfels: Surface Elements as Rendering Primitives**, Pfister et al., CGIT 2000 | [📄 Paper](https://www.cs.umd.edu/~zwicker/publications/Surfels-SIG00.pdf)
-
-## Surfel based SLAM:
-- **Efficient Surfel-Based SLAM using 3D Laser Range Data in Urban Environments**, Behley and Stachniss, RSS 2018 | [📄 Paper](https://jbehley.github.io/papers/behley2018rss.pdf) | [🌐 Project Page](https://jbehley.github.io/projects/surfel_mapping/index.html) | [💻 Code](https://github.com/jbehley/SuMa)
-
-- **Real-time Scalable Dense Surfel Mapping**, Wang et al., arXiv 2019 | [📄 Paper](https://arxiv.org/abs/1909.04250) | [💻 Code](https://github.com/HKUST-Aerial-Robotics/DenseSurfelMapping)
-
-- **Surfel-based RGB-D Reconstruction and SLAM with Global and Local Consistency**, Yang, Msc thesis 2019 | [📄 Paper](https://www.cs.cmu.edu/~kaess/pub/Yang19thesis_ms.pdf)
-
-
 ## 3D Generations:
 ## 2025:
+- **[CVPR '25] DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation**, Ju and Li, arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.06900) | [💻 Code](https://github.com/DreamTechAI/Direct3D-S2) | [🌐 Project Page](https://www.neural4d.com/research/direct3d-s2/) | [🤗 Demo](https://huggingface.co/spaces/wushuang98/Direct3D-S2-v1.0-demo)
+
+- **Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention**, Wu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.17412) | [💻 Code](https://github.com/DreamTechAI/Direct3D-S2) | [🌐 Project Page](https://www.neural4d.com/research/direct3d-s2/) | [🤗 Demo](https://huggingface.co/spaces/wushuang98/Direct3D-S2-v1.0-demo)
+
 - **[CVPR '25] LIM: Large Interpolator Model for Dynamic Reconstruction**, Sabathier et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.22537) | [🌐 Project Page](https://remysabathier.github.io/lim.github.io/)
 
 - **[TECHINICAL REPORT] Step1X-3D: Towards High-Fidelity and Controllable Generation of Textured 3D Assets**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.07747) | [💻 Code](https://github.com/stepfun-ai/Step1X-3D) | [🌐 Project Page](https://stepfun-ai.github.io/Step1X-3D/) | [🤗 Demo](https://huggingface.co/spaces/stepfun-ai/Step1X-3D)
