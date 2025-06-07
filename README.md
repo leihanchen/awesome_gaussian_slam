@@ -103,6 +103,18 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**, Shi et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2506.05327) | [🌐 Project Page](https://aim-uofa.github.io/PMLoss/) | [💻 Code](https://github.com/aim-uofa/PM-Loss)
+
+- **[ICLR '25]Fast Feedforward 3D Gaussian Splatting Compression**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2410.08017) | [🌐 Project Page](https://yihangchen-ee.github.io/project_fcgs/) | [💻 Code](https://github.com/YihangChen-ee/FCGS)
+
+- **[CVPR '25]Volumetrically Consistent 3D Gaussian Rasterization**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2412.03378) | [🌐 Project Page](https://chinmay0301.github.io/vol3dgs/) | [💻 Code](https://github.com/chinmay0301ucsd/Vol3DGS)
+
+- **[CVPR '25]3D-HGS: 3D Half-Gaussian Splatting**, Li et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.15294) | [🌐 Project Page](https://lihaolin88.github.io/CVPR-2025-3DHGS/) | [💻 Code](https://github.com/lihaolin88/3DHGS)
+
+- **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**, Wang et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.23734) | [🌐 Project Page](https://lhmd.top/zpressor/) | [💻 Code](https://github.com/ziplab/ZPressor)
+
+- **LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**, Kulhanek et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2406.02720) | [🌐 Project Page](https://lodge-gs.github.io/)
+
 - **[ICRA '25]R3GS: Gaussian Splatting for Robust Reconstruction and Relocalization in Unconstrained Image Collections**, Yan et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.15294) | [🌐 Project Page]() | | [💻 Code]()
 
 - **[CVPRW '25]SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting**, Jena et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.02175) | [🌐 Project Page](https://shubhendu-jena.github.io/SparSplat/) | | [💻 Code](https://github.com/Shubhendu-Jena/SparSplat)
@@ -185,6 +197,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025
+- **Dy3DGS-SLAM: Monocular 3D Gaussian Splatting SLAM for Dynamic Environments**, Li et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2506.05965)
+
 - **[CVPR '25] 4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**, Matsuki et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.22859) | [💻 Code](https://github.com/muskie82/4dtam) | [🌐 Project Page](https://muskie82.github.io/4dtam/) | [🤗 Data](https://github.com/baegwangbin/sim4d)
 
 - **UP-SLAM: Adaptively Structured Gaussian SLAM with Uncertainty Prediction in Dynamic Environments**, Zheng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.22335) | [💻 Code]() | [🌐 Project Page](https://aczheng-cai.github.io/up_slam.github.io/)
@@ -447,6 +461,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Generations:
 ## 2025:
+- **Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles**, Wang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.21060) | [🌐 Project Page](https://arxiv.org/abs/2505.21060) | [💻 Code](https://arxiv.org/abs/2505.21060)
+
 - **Constructing a 3D Town from a Single Image**, Zheng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.15765) | [🌐 Project Page](https://eric-ai-lab.github.io/3dtown.github.io/) | [💻 Code]()
 
 - **[CVPR '25] DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation**, Ju and Li, arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.06900) | [💻 Code](https://github.com/DreamTechAI/Direct3D-S2) | [🌐 Project Page](https://www.neural4d.com/research/direct3d-s2/) | [🤗 Demo](https://huggingface.co/spaces/wushuang98/Direct3D-S2-v1.0-demo)
