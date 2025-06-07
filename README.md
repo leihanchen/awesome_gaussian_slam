@@ -103,6 +103,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **[CVPR '25]3D-HGS: 3D Half-Gaussian Splatting**, Li et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.15294) | [🌐 Project Page](https://lihaolin88.github.io/CVPR-2025-3DHGS/) | | [💻 Code](https://github.com/lihaolin88/3DHGS)
+
+- **LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**, Kulhanek et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2406.02720) | [🌐 Project Page](https://lodge-gs.github.io/)
+
 - **[ICRA '25]R3GS: Gaussian Splatting for Robust Reconstruction and Relocalization in Unconstrained Image Collections**, Yan et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.15294) | [🌐 Project Page]() | | [💻 Code]()
 
 - **[CVPRW '25]SparSplat: Fast Multi-View Reconstruction with Generalizable 2D Gaussian Splatting**, Jena et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2505.02175) | [🌐 Project Page](https://shubhendu-jena.github.io/SparSplat/) | | [💻 Code](https://github.com/Shubhendu-Jena/SparSplat)
@@ -447,6 +451,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Generations:
 ## 2025:
+- **Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles**, Wang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.21060) | [🌐 Project Page](https://arxiv.org/abs/2505.21060) | [💻 Code](https://arxiv.org/abs/2505.21060)
+
 - **Constructing a 3D Town from a Single Image**, Zheng et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.15765) | [🌐 Project Page](https://eric-ai-lab.github.io/3dtown.github.io/) | [💻 Code]()
 
 - **[CVPR '25] DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation**, Ju and Li, arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.06900) | [💻 Code](https://github.com/DreamTechAI/Direct3D-S2) | [🌐 Project Page](https://www.neural4d.com/research/direct3d-s2/) | [🤗 Demo](https://huggingface.co/spaces/wushuang98/Direct3D-S2-v1.0-demo)
