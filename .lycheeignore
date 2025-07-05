@@ -1,0 +1,26 @@
+# Configuration for lychee link checker
+# Exclude certain domains that might have issues with automated requests
+exclude = [
+    # Social media and video platforms that often block bots
+    "https://twitter.com/*",
+    "https://x.com/*", 
+    "https://youtube.com/*",
+    "https://www.youtube.com/*",
+    # Academic sites that might be restrictive
+    "https://ieeexplore.ieee.org/*",
+    # Sites with frequent temporary issues
+    "mailto:*"
+]
+
+# User agent to help with requests
+user_agent = "lychee/awesome-gaussian-slam"
+
+# Timeout settings
+timeout = 20
+max_retries = 3
+
+# Accept certain status codes that might be temporary
+accept = [200, 403, 429]
+
+# Check external links only
+exclude_path = [".git"]

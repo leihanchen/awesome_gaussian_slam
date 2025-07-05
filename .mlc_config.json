@@ -1,0 +1,20 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^mailto:"
+    }
+  ],
+  "httpHeaders": [
+    {
+      "urls": ["https://arxiv.org/"],
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (compatible; awesome-gaussian-slam-checker)"
+      }
+    }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 2,
+  "fallbackRetryDelay": "5s",
+  "aliveStatusCodes": [200, 206, 403, 429]
+}

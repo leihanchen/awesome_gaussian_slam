@@ -1,0 +1,87 @@
+name: Awesome List CI
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+
+jobs:
+  basic-checks:
+    runs-on: ubuntu-latest
+    name: Basic README validation
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check README structure
+        run: |
+          echo "Checking README.md structure..."
+          if grep -q "# Awesome Gaussian SLAM Resources" README.md; then
+            echo "✓ Title found"
+          else
+            echo "✗ Title not found"
+            exit 1
+          fi
+          
+          if grep -q "## Table of contents" README.md; then
+            echo "✓ Table of contents found"
+          else
+            echo "✗ Table of contents not found" 
+            exit 1
+          fi
+          
+          # Check for basic awesome list structure
+          if grep -q "\[📄 Paper\]" README.md; then
+            echo "✓ Paper links found"
+          else
+            echo "✗ No paper links found"
+            exit 1
+          fi
+          
+          echo "README.md structure validation passed!"
+
+  link-check:
+    runs-on: ubuntu-latest
+    name: Check key links
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install -g markdown-link-check
+
+      - name: Check README links (non-blocking)
+        run: |
+          echo "Checking links in README.md..."
+          markdown-link-check README.md --quiet --config .mlc_config.json || echo "Some links may be broken, but this won't fail the build"
+        continue-on-error: true
+
+  format-check:
+    runs-on: ubuntu-latest
+    name: Check basic formatting
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check for basic formatting issues
+        run: |
+          echo "Checking for basic formatting issues..."
+          
+          # Check for common issues
+          if grep -n "  $" README.md; then
+            echo "Warning: Found trailing spaces (this is just a warning)"
+          fi
+          
+          # Check for empty links
+          if grep -n "\[\]\(" README.md; then
+            echo "Warning: Found empty link text (this is just a warning)"
+          fi
+          
+          # Always pass - this is just informational
+          echo "Basic formatting check completed!"
