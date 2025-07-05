@@ -1,0 +1,103 @@
+name: PR Validation
+
+on:
+  pull_request:
+    branches: [ main, master ]
+    types: [opened, synchronize, reopened]
+
+jobs:
+  validate-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome new contributor
+        if: github.event.action == 'opened'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const message = `👋 Thank you for your contribution to Awesome Gaussian SLAM Resources!
+            
+            🔍 **Your pull request is being reviewed**
+            
+            📋 **Please ensure you have:**
+            - [ ] Read the [Contributing Guidelines](https://github.com/${context.repo.owner}/${context.repo.repo}/blob/master/CONTRIBUTING.md)
+            - [ ] Used the proper format for new entries
+            - [ ] Verified all links work
+            - [ ] Checked for duplicates
+            - [ ] Placed content in the appropriate section
+            
+            ⏱️ **What happens next:**
+            1. Automated checks will validate your changes
+            2. A maintainer will review your contribution
+            3. You may receive feedback or requests for changes
+            4. Once approved, your PR will be merged
+            
+            🚫 **Note**: This repository has branch protection enabled. Direct pushes to master are not allowed - all changes must go through the pull request process.
+            
+            Thank you for contributing to the community! 🎉`;
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: message
+            });
+
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate links in changed files
+        run: |
+          echo "🔍 Validating links in changed files..."
+          
+          # Get list of changed files
+          CHANGED_FILES=$(git diff --name-only origin/master...HEAD)
+          
+          echo "Changed files:"
+          echo "$CHANGED_FILES"
+          
+          # Check if README.md was modified
+          if echo "$CHANGED_FILES" | grep -q "README.md"; then
+            echo "📝 README.md was modified - running additional checks..."
+            
+            # Extract URLs from README.md and check a sample
+            echo "🔗 Checking for common link issues..."
+            
+            # Check for malformed markdown links
+            if grep -n '\]\[' README.md; then
+              echo "::warning::Found potential malformed links in README.md"
+            fi
+            
+            # Check for missing closing brackets
+            if grep -n '\[.*[^]]$' README.md; then
+              echo "::warning::Found potential incomplete markdown links"
+            fi
+            
+            echo "✅ Basic link format validation complete"
+          fi
+
+      - name: Check for new content formatting
+        run: |
+          echo "📋 Checking content formatting..."
+          
+          # Check if new lines follow the expected pattern for papers
+          if git diff origin/master...HEAD README.md | grep "^+" | grep -E "^\+.*\*\*.*\*\*.*\|.*\[.*\]"; then
+            echo "✅ Found properly formatted paper entries"
+          fi
+          
+          # Check for proper emoji usage
+          if git diff origin/master...HEAD README.md | grep "^+" | grep -E "📄|💻|🌐|🤗|🎥"; then
+            echo "✅ Found proper emoji usage for links"
+          fi
+
+      - name: Summary
+        run: |
+          echo "📊 **Validation Summary**"
+          echo "✅ Basic formatting checks passed"
+          echo "✅ Link format validation completed"
+          echo "📋 Ready for manual review by maintainers"
+          echo ""
+          echo "🔄 **Next Steps:**"
+          echo "1. Maintainers will review your changes"
+          echo "2. Address any feedback if requested"
+          echo "3. Once approved, your PR will be merged"

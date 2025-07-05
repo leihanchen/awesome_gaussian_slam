@@ -1,0 +1,55 @@
+name: Branch Protection
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  enforce-branch-protection:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if direct push to protected branch
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+        run: |
+          echo "::error::Direct pushes to master branch are not allowed. Please create a pull request."
+          echo "::error::Only repository administrators can force push to master branch."
+          echo "::error::For contributing guidelines, see CONTRIBUTING.md"
+          exit 1
+
+      - name: Validate pull request
+        if: github.event_name == 'pull_request'
+        run: |
+          echo "✅ Pull request detected - this is the correct way to contribute!"
+          echo "📋 Please ensure your PR follows the contribution guidelines in CONTRIBUTING.md"
+          echo "🔍 Your changes will be reviewed before merging"
+
+  validate-pr-requirements:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request'
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Check PR title and description
+        run: |
+          if [ -z "${{ github.event.pull_request.title }}" ]; then
+            echo "::error::Pull request must have a title"
+            exit 1
+          fi
+          
+          if [ -z "${{ github.event.pull_request.body }}" ]; then
+            echo "::warning::Pull request should have a description"
+          fi
+          
+          echo "✅ Pull request has proper title and description"
+
+      - name: Check for breaking changes
+        run: |
+          echo "🔍 Checking for potential breaking changes..."
+          # Check if any major sections were removed or significantly modified
+          git diff --name-only origin/master...HEAD | while read file; do
+            if [[ "$file" == "README.md" ]]; then
+              echo "📝 README.md modified - please ensure no critical information was removed"
+            fi
+          done

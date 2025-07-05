@@ -1,0 +1,113 @@
+name: 📰 New Paper/Resource
+description: Submit a new paper or resource to be added to the list
+title: "[NEW] Add: [Paper/Resource Title]"
+labels: ["enhancement", "new-resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit a new paper or resource! Please fill out the form below.
+
+  - type: input
+    id: title
+    attributes:
+      label: Paper/Resource Title
+      description: Full title of the paper or resource
+      placeholder: e.g., "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+    validations:
+      required: true
+
+  - type: input
+    id: authors
+    attributes:
+      label: Authors
+      description: List of authors
+      placeholder: e.g., "Kerbl et al."
+    validations:
+      required: true
+
+  - type: input
+    id: publication
+    attributes:
+      label: Publication
+      description: Conference, journal, or publication venue
+      placeholder: e.g., "SIGGRAPH 2023, arXiv 2024"
+    validations:
+      required: true
+
+  - type: input
+    id: year
+    attributes:
+      label: Year
+      description: Publication year
+      placeholder: e.g., "2024"
+    validations:
+      required: true
+
+  - type: input
+    id: paper_link
+    attributes:
+      label: Paper Link
+      description: Direct link to the paper (arXiv, conference, etc.)
+      placeholder: https://arxiv.org/abs/...
+    validations:
+      required: true
+
+  - type: input
+    id: code_link
+    attributes:
+      label: Code Link (if available)
+      description: Link to the code repository
+      placeholder: https://github.com/...
+
+  - type: input
+    id: project_page
+    attributes:
+      label: Project Page (if available)
+      description: Link to the project website
+      placeholder: https://...
+
+  - type: input
+    id: demo_link
+    attributes:
+      label: Demo/Video Link (if available)
+      description: Link to demo, video, or interactive content
+      placeholder: https://...
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which section should this be added to?
+      options:
+        - Gaussian SLAM
+        - Gaussian Optimization
+        - Navigation
+        - Poses
+        - Large Scale
+        - 3D Reconstruction
+        - 3D Generations
+        - Data
+        - Other (specify in additional info)
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional Information
+      description: Any additional context, notes, or special considerations
+      placeholder: Tell us more about why this resource should be included...
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: Please confirm the following
+      options:
+        - label: I have verified all the links work
+          required: true
+        - label: This is not a duplicate of an existing entry
+          required: true
+        - label: The paper/resource is related to Gaussian SLAM or Gaussian Splatting
+          required: true

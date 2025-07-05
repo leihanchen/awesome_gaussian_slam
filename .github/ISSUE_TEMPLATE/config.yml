@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/leihanchen/awesome_gaussian_slam/discussions
+    about: Ask questions and discuss with the community
+  - name: 📖 Contributing Guidelines
+    url: https://github.com/leihanchen/awesome_gaussian_slam/blob/master/CONTRIBUTING.md
+    about: Learn how to contribute to this repository

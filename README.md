@@ -2,8 +2,20 @@
 
 A curated list of papers and open-source resources focused on gaussian based slam system, focusing on slam systems with gaussian based mapping representation with any utilities. The ambition is keeping pace with the anticipated surge of research in the coming months. If you have any additions or suggestions, feel free to contribute. Additional resources like blog posts, videos, etc. are also welcome.
 
+## 🤝 Contributing
+
+**Important**: This repository follows strict branch protection rules. Direct pushes to the master branch are not allowed. All contributions must be made via pull requests and require approval.
+
+- 📖 **Read the [Contributing Guidelines](CONTRIBUTING.md)** before making any contributions
+- 🔄 **Use Pull Requests** - Direct pushes to master are blocked for non-administrators  
+- ✅ **Get Approval** - All PRs require review and approval before merging
+- 🏷️ **Use Templates** - We provide issue and PR templates to guide your contributions
+
+For questions, bug reports, or feature requests, please use the [issue templates](.github/ISSUE_TEMPLATE/).
+
 ## Table of contents
 
+- [Contributing](#-contributing)
 - [Seminal Introduction Material](#introduction)
 
   - [Nerf](#nerf)

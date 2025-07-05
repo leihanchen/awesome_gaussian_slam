@@ -1,0 +1,55 @@
+name: 🐛 Bug Report
+description: Report a bug (broken link, formatting issue, etc.)
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+
+  - type: dropdown
+    id: bug_type
+    attributes:
+      label: Bug Type
+      description: What type of bug are you reporting?
+      options:
+        - Broken link
+        - Formatting issue
+        - Duplicate entry
+        - Wrong categorization
+        - Outdated information
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the bug in detail
+      placeholder: Tell us what's wrong...
+    validations:
+      required: true
+
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: Where in the repository is this bug located?
+      placeholder: e.g., "In the Gaussian SLAM section, under 2024 papers"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What should happen instead?
+      placeholder: Describe what you expected to see...
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here
