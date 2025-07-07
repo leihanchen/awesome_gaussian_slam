@@ -350,7 +350,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 - **[ECCV 2024] Gaussian Grouping: Segment and Edit Anything in 3D Scenes**, Ye et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2312.00732) | [🌐 Project Page](https://ymq2017.github.io/gaussian-grouping/)| [💻 Code](https://github.com/lkeab/gaussian-grouping)
 
-- **CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.00771) | [🌐 Project Page](https://dekuliutesla.github.io/CityGaussianV2/)| [💻 Code](https://github.com/DekuLiuTesla/CityGaussian)
+- **[ICLR 2025] CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.00771) | [🌐 Project Page](https://dekuliutesla.github.io/CityGaussianV2/)| [💻 Code](https://github.com/DekuLiuTesla/CityGaussian)
 
 - **Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction**, Fan et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2411.00771) | [🌐 Project Page](https://jixuan-fan.github.io/Momentum-GS_Page/)| [💻 Code](https://github.com/Jixuan-Fan/Momentum-GS)
 
@@ -437,6 +437,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **[AAAI' 25] FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency**, Huang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.04628) | [🌐 Project Page](https://alvin528.github.io/FatesGS/) | [💻 Code](https://github.com/yulunwu0108/FatesGS)
 
 ## 2024:
+- **[CVPR' 25] Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction**, Wei et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2412.06273) | [🌐 Project Page](https://wswdx.github.io/omniscene/) | [💻 Code](https://github.com/WU-CVGL/Omni-Scene)  | [🎥 Video](https://www.youtube.com/watch?v=mc8MXkJUv3Q)
+
 - **LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**, Chen et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.09597) | [🌐 Project Page](https://liftimage3d.github.io/) | [💻 Code](https://github.com/AbrahamYabo/LiftImage3D)
 
 - **ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2408.16767) | [🌐 Project Page](https://liuff19.github.io/ReconX/) | [💻 Code](https://github.com/liuff19/ReconX) | [🎥 Video](https://www.youtube.com/watch?v=UuL2nP5rJcI) | [🤗 Demo]()
@@ -477,6 +479,10 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Generations:
 ## 2025:
+- **AnimaX: Animating the Inanimate in 3D with Joint Video-Pose Diffusion Models**, Huang et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2506.19851) | [🌐 Project Page](https://anima-x.github.io/) | [💻 Code](https://github.com/anima-x/anima-x)
+
+- **[ICCV '25] Controllable 3D Outdoor Scene Generation via Scene Graphs**, Liu et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.07152) | [🌐 Project Page](https://yuheng.ink/project-page/control-3d-scene/) | [💻 Code](https://github.com/yuhengliu02/control-3d-scene) | [🎥 Video](https://www.youtube.com/watch?v=zu1-FbK9ETc) | [🤗 Demo](https://control3dscene.cilix.ai/#/)
+
 - **[CVPRW '25] SVAD: From Single Image to 3D Avatar via Synthetic Data Generation with Video Diffusion and Data Augmentation**, Choi, arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.05475) | [🌐 Project Page](https://yc4ny.github.io/SVAD/) | [💻 Code](https://github.com/yc4ny/SVAD)
 
 - **ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**, Yuan et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2506.14315) | [🌐 Project Page](https://immersegen.github.io/) | [💻 Code]()
