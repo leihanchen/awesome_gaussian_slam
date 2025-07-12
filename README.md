@@ -103,7 +103,11 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian Optimization:
 ## 2025:
+- **[CVPR '25] Efficient multi-view training for 3D Gaussian Splatting**, Choi et al., arXiv 2025 | [📄 Paper](https://www.arxiv.org/abs/2506.12727) | [🌐 Project Page]() | [💻 Code]()
+
 - **Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting**, Shi et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2506.05327) | [🌐 Project Page](https://aim-uofa.github.io/PMLoss/) | [💻 Code](https://github.com/aim-uofa/PM-Loss)
+
+- **[CVPR '25] Evolving High-Quality Rendering and Reconstruction in a Unified Framework with Contribution-Adaptive Regularization**, Shen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2503.00881) | [🌐 Project Page]() | [💻 Code]()
 
 - **[ICLR '25] Fast Feedforward 3D Gaussian Splatting Compression**, Chen et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2410.08017) | [🌐 Project Page](https://yihangchen-ee.github.io/project_fcgs/) | [💻 Code](https://github.com/YihangChen-ee/FCGS)
 
@@ -197,6 +201,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## Gaussian SLAM:
 ## 2025
+- **Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**, Lang et al., arXiv 2025 | [📄 Paper]() | [💻 Code]() | [🌐 Project Page](https://xingxingzuo.github.io/gaussian_lic2/)| [🎥 Video](https://www.youtube.com/watch?v=SkPnpuCfh88)
+
 - **[ICCV'25] GS-LIVM: Real-Time Photo-Realistic LiDAR-Inertial-Visual Mapping with Gaussian Splatting**, Xie et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2410.17084) | [💻 Code](https://github.com/xieyuser/GS-LIVM) | [🎥 Video](https://www.bilibili.com/video/BV1JeSKYUEFp)
 
 - **VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**, Maggio et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2505.12549)
