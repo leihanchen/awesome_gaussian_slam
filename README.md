@@ -199,7 +199,7 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**, Kwak et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.03714) | [🌐 Project Page](https://kaist-viclab.github.io/MoDecGS-site/) | [💻 Code]()
 
 ## 2024:
-- **[CVPR' 24 Highlight] LangSplat: 3D Language Gaussian Splatting**, Qin et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.16266) | [🌐 Project Page](https://langsplat.github.io/) | [💻 Code](https://github.com/minghanqin/LangSplat) | [🎥 Video](https://www.youtube.com/watch?v=XMlyjsei-Es)
+- **[CVPR' 24 Highlight] LangSplat: 3D Language Gaussian Splatting**, Qin et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2312.16084) | [🌐 Project Page](https://langsplat.github.io/) | [💻 Code](https://github.com/minghanqin/LangSplat) | [🎥 Video](https://www.youtube.com/watch?v=XMlyjsei-Es)
 
 - **[NeurIPS' 24] 3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.16266) | [🌐 Project Page](https://xiliu8006.github.io/3DGS-Enhancer-project/) | [💻 Code](https://github.com/xiliu8006/3DGS-Enhancer)
 
