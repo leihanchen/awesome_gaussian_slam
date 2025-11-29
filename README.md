@@ -199,8 +199,6 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting**, Kwak et al., arXiv 2025 | [📄 Paper](https://arxiv.org/abs/2501.03714) | [🌐 Project Page](https://kaist-viclab.github.io/MoDecGS-site/) | [💻 Code]()
 
 ## 2024:
-- **[CVPR' 24 Highlight] LangSplat: 3D Language Gaussian Splatting**, Qin et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2312.16084) | [🌐 Project Page](https://langsplat.github.io/) | [💻 Code](https://github.com/minghanqin/LangSplat) | [🎥 Video](https://www.youtube.com/watch?v=XMlyjsei-Es)
-
 - **[NeurIPS' 24] 3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2410.16266) | [🌐 Project Page](https://xiliu8006.github.io/3DGS-Enhancer-project/) | [💻 Code](https://github.com/xiliu8006/3DGS-Enhancer)
 
 - **MaskGaussian: Adaptive 3D Gaussian Representation from Probabilistic Masks**, Liu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/abs/2412.20522) | [🌐 Project Page]() | [💻 Code](https://github.com/kaikai23/MaskGaussian)
@@ -240,6 +238,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 - **[CVPR '24] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**, Wu et al., CVPR 2024 | [📄 Paper](https://arxiv.org/abs/2310.08528.pdf) | [🌐 Project Page](https://guanjunwu.github.io/4dgs/) | [💻 Code](https://github.com/hustvl/4DGaussians)
 
 - **Trim 3D Gaussian Splatting for Accurate Geometry Representation**, Fan et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2406.07499.pdf) | [🌐 Project Page](https://trimgs.github.io/) | [💻 Code](https://github.com/YuxueYang1204/TrimGS)
+
+- **[CVPR' 24 Highlight] LangSplat: 3D Language Gaussian Splatting**, Qin et al., arXiv 2023 | [📄 Paper](https://arxiv.org/abs/2312.16084) | [🌐 Project Page](https://langsplat.github.io/) | [💻 Code](https://github.com/minghanqin/LangSplat) | [🎥 Video](https://www.youtube.com/watch?v=XMlyjsei-Es)
 
 - **[CVPR '24 Best Student Paper] Mip-Splatting Alias-free 3D Gaussian Splatting**, Yu et al., arXiv 2024 | [📄 Paper](https://arxiv.org/pdf/2311.16493.pdf) | [🌐 Project Page](https://niujinshuchong.github.io/mip-splatting/) | [💻 Code](https://github.com/autonomousvision/mip-splatting)
 
@@ -449,7 +449,13 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 ## 3D Reconstruction:
 ## 2025:
-- **CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image**, Huang et al., 2025 | [📄 Paper](https://arxiv.org/abs/2510.20776) | [🌐 Project Page](https://cupid3d.github.io/) | [💻 Code]()
+- **VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction**, Hu et al., 2025 | [📄 Paper](https://arxiv.org/abs/2511.19971) | [🌐 Project Page](https://3dagentworld.github.io/vggt4d/) | [💻 Code]()
+
+- **OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer**, Peng et al., 2025 | [📄 Paper](https://arxiv.org/html/2511.10560v1) | [🌐 Project Page](https://livioni.github.io/OmniVGGT-offcial/) | [💻 Code](https://github.com/Livioni/OmniVGGT-offcial)
+
+- **[NeurIPS '25]4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos**, Guo et al., 2025 | [📄 Paper](https://arxiv.org/abs/2511.05229) | [🌐 Project Page]() | [💻 Code]()
+
+- **CUPID: Pose-Grounded Generative 3D Reconstruction from a Single Image**, Huang et al., 2025 | [📄 Paper](https://arxiv.org/abs/2510.20776) | [🌐 Project Page](https://cupid3d.github.io/) | [💻 Code](https://github.com/cupid3d/Cupid)
 
 - **IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction**, Li et al., 2025 | [📄 Paper](https://arxiv.org/abs/2510.22706) | [🌐 Project Page](https://lifuguan.github.io/IGGT_official/) | [💻 Code](https://github.com/lifuguan/IGGT_official) | [🤗 HF paper](https://huggingface.co/papers/2510.22706) | [🎥 Video](https://www.youtube.com/watch?v=blVXMwGHQO4) | [🤗 Data](https://huggingface.co/datasets/lifuguan/InsScene-15K)
 
@@ -824,6 +830,8 @@ A curated list of papers and open-source resources focused on gaussian based sla
 
 
 ## Data
+- [📄 Perceptual Quality Assessment of 3D Gaussian Splatting: A Subjective Dataset and Prediction Metric](https://arxiv.org/abs/2511.08032) [💻 Toolkit](https://github.com/diaoyn/3DGSQA)
+
 - [📄 OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](https://arxiv.org/abs/2509.12201) [💻 Toolkit](https://yangzhou24.github.io/OmniWorld/)
 
 - [📄 UAVScenes: A Multi-Modal Dataset for UAVs](https://arxiv.org/abs/2507.22412) [💻 Toolkit](https://github.com/sijieaaa/UAVScenes)
